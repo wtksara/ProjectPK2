@@ -1,0 +1,57 @@
+\hypertarget{zapisz_8h}{}\doxysection{C\+:/\+Users/\+Sara/source/repos/\+P\+K2/\+Projekt/zapisz.h File Reference}
+\label{zapisz_8h}\index{C:/Users/Sara/source/repos/PK2/Projekt/zapisz.h@{C:/Users/Sara/source/repos/PK2/Projekt/zapisz.h}}
+{\ttfamily \#include $<$stdlib.\+h$>$}\newline
+{\ttfamily \#include $<$time.\+h$>$}\newline
+{\ttfamily \#include $<$math.\+h$>$}\newline
+{\ttfamily \#include $<$stdbool.\+h$>$}\newline
+{\ttfamily \#include \char`\"{}menu.\+h\char`\"{}}\newline
+\doxysubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{zapisz_8h_a800c5a88c228d9b87fa9de05198edd52}{zapisz\+\_\+date}} (struct tm $\ast$pstruktura, F\+I\+LE $\ast$output)
+\begin{DoxyCompactList}\small\item\em Zapisuje date do pliku. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{zapisz_8h_ab1692b32ad0655d67c5c04b5c56f02d5}{zapisz}} (struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$pmenu, F\+I\+LE $\ast$output)
+\begin{DoxyCompactList}\small\item\em Zapisuje dane z programu do pliku. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Function Documentation}
+\mbox{\Hypertarget{zapisz_8h_ab1692b32ad0655d67c5c04b5c56f02d5}\label{zapisz_8h_ab1692b32ad0655d67c5c04b5c56f02d5}} 
+\index{zapisz.h@{zapisz.h}!zapisz@{zapisz}}
+\index{zapisz@{zapisz}!zapisz.h@{zapisz.h}}
+\doxysubsubsection{\texorpdfstring{zapisz()}{zapisz()}}
+{\footnotesize\ttfamily void zapisz (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$}]{pmenu,  }\item[{F\+I\+LE $\ast$}]{output }\end{DoxyParamCaption})}
+
+
+
+Zapisuje dane z programu do pliku. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em pmenu} & Referencja do menu, ktore zawiera glowy wszystkich list \\
+\hline
+{\em output} & Plik wyjsciowy do zapisu \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nic nie zwraca 
+\end{DoxyReturn}
+\mbox{\Hypertarget{zapisz_8h_a800c5a88c228d9b87fa9de05198edd52}\label{zapisz_8h_a800c5a88c228d9b87fa9de05198edd52}} 
+\index{zapisz.h@{zapisz.h}!zapisz\_date@{zapisz\_date}}
+\index{zapisz\_date@{zapisz\_date}!zapisz.h@{zapisz.h}}
+\doxysubsubsection{\texorpdfstring{zapisz\_date()}{zapisz\_date()}}
+{\footnotesize\ttfamily void zapisz\+\_\+date (\begin{DoxyParamCaption}\item[{struct tm $\ast$}]{pstruktura,  }\item[{F\+I\+LE $\ast$}]{output }\end{DoxyParamCaption})}
+
+
+
+Zapisuje date do pliku. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em data} & Referencja do danej daty \\
+\hline
+{\em output} & Plik wyjsciowy do zapisu \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nic nie zwraca 
+\end{DoxyReturn}

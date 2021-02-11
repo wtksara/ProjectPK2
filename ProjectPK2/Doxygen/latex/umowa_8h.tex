@@ -1,0 +1,108 @@
+\hypertarget{umowa_8h}{}\doxysection{C\+:/\+Users/\+Sara/source/repos/\+P\+K2/\+Projekt/umowa.h File Reference}
+\label{umowa_8h}\index{C:/Users/Sara/source/repos/PK2/Projekt/umowa.h@{C:/Users/Sara/source/repos/PK2/Projekt/umowa.h}}
+{\ttfamily \#include $<$stdio.\+h$>$}\newline
+{\ttfamily \#include $<$string.\+h$>$}\newline
+{\ttfamily \#include $<$stdlib.\+h$>$}\newline
+{\ttfamily \#include $<$time.\+h$>$}\newline
+{\ttfamily \#include \char`\"{}sprawdzanie.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}wczytaj.\+h\char`\"{}}\newline
+\doxysubsection*{Classes}
+\begin{DoxyCompactItemize}
+\item 
+struct \mbox{\hyperlink{structumowa}{umowa}}
+\begin{DoxyCompactList}\small\item\em Struktura, ktora zawiera szczegolowe informacje na temat zawartej umowy. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+struct \mbox{\hyperlink{structumowa}{umowa}} $\ast$ \mbox{\hyperlink{umowa_8h_a7a45d8c4b770cec79e9f6acd2c2cd32e}{nowa\+\_\+umowa}} (struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$pmenu)
+\begin{DoxyCompactList}\small\item\em Tworzenie nowych elementow typu umowa. \end{DoxyCompactList}\item 
+bool \mbox{\hyperlink{umowa_8h_a87a6dd9b9b9301dc2b04989bafab6d4b}{kto\+\_\+umowa}} (int $\ast$rodzaj, struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$pmenu, struct \mbox{\hyperlink{structumowa}{umowa}} $\ast$$\ast$\mbox{\hyperlink{umowa_8h_a7a45d8c4b770cec79e9f6acd2c2cd32e}{nowa\+\_\+umowa}})
+\begin{DoxyCompactList}\small\item\em Okreslanie stron umowy. \end{DoxyCompactList}\item 
+bool \mbox{\hyperlink{umowa_8h_ad8a58bdf585fdd2b662aee98fc660586}{rodzaj\+\_\+umowy}} (int $\ast$typ)
+\begin{DoxyCompactList}\small\item\em Okreslenie rodzaju umowy (sprzedaz / usluga) \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{umowa_8h_a2c007ac05001208588bdae78bf5c3729}{dodaj\+\_\+do\+\_\+listy}} (struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$pmenu, int i, char $\ast$buffer)
+\begin{DoxyCompactList}\small\item\em Dodanie do listy danej umowy. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Function Documentation}
+\mbox{\Hypertarget{umowa_8h_a2c007ac05001208588bdae78bf5c3729}\label{umowa_8h_a2c007ac05001208588bdae78bf5c3729}} 
+\index{umowa.h@{umowa.h}!dodaj\_do\_listy@{dodaj\_do\_listy}}
+\index{dodaj\_do\_listy@{dodaj\_do\_listy}!umowa.h@{umowa.h}}
+\doxysubsubsection{\texorpdfstring{dodaj\_do\_listy()}{dodaj\_do\_listy()}}
+{\footnotesize\ttfamily void dodaj\+\_\+do\+\_\+listy (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$}]{pmenu,  }\item[{int}]{i,  }\item[{char $\ast$}]{buffer }\end{DoxyParamCaption})}
+
+
+
+Dodanie do listy danej umowy. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em pmenu} & Referencja do menu, ktore zawiera glowy wszystkich list \\
+\hline
+{\em i} & Zmienna okreslajaca, czy jest wczytywywana umowa lub recznie tworzona \\
+\hline
+{\em buffer} & Bufor do wczytywania \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nic nie zwraca 
+\end{DoxyReturn}
+\mbox{\Hypertarget{umowa_8h_a87a6dd9b9b9301dc2b04989bafab6d4b}\label{umowa_8h_a87a6dd9b9b9301dc2b04989bafab6d4b}} 
+\index{umowa.h@{umowa.h}!kto\_umowa@{kto\_umowa}}
+\index{kto\_umowa@{kto\_umowa}!umowa.h@{umowa.h}}
+\doxysubsubsection{\texorpdfstring{kto\_umowa()}{kto\_umowa()}}
+{\footnotesize\ttfamily bool kto\+\_\+umowa (\begin{DoxyParamCaption}\item[{int $\ast$}]{rodzaj,  }\item[{struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$}]{pmenu,  }\item[{struct \mbox{\hyperlink{structumowa}{umowa}} $\ast$$\ast$}]{nowa\+\_\+umowa }\end{DoxyParamCaption})}
+
+
+
+Okreslanie stron umowy. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em rodzaj} & Numer rodzaju umowy \\
+\hline
+{\em pmenu} & Referencja do menu, ktore zawiera glowy wszystkich list \\
+\hline
+{\em nowa\+\_\+umowa} & Referencja do umowy,ktora aktualnie jest tworzona ~\newline
+ \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Zwraca true lub false, w zaleznosci czy dzialanie sie powiedzie 
+\end{DoxyReturn}
+\mbox{\Hypertarget{umowa_8h_a7a45d8c4b770cec79e9f6acd2c2cd32e}\label{umowa_8h_a7a45d8c4b770cec79e9f6acd2c2cd32e}} 
+\index{umowa.h@{umowa.h}!nowa\_umowa@{nowa\_umowa}}
+\index{nowa\_umowa@{nowa\_umowa}!umowa.h@{umowa.h}}
+\doxysubsubsection{\texorpdfstring{nowa\_umowa()}{nowa\_umowa()}}
+{\footnotesize\ttfamily struct \mbox{\hyperlink{structumowa}{umowa}}$\ast$ nowa\+\_\+umowa (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$}]{pmenu }\end{DoxyParamCaption})}
+
+
+
+Tworzenie nowych elementow typu umowa. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em pmenu} & Referencja do menu, ktore zawiera glowy wszystkich list \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Zwraca nowy element typu umowa 
+\end{DoxyReturn}
+\mbox{\Hypertarget{umowa_8h_ad8a58bdf585fdd2b662aee98fc660586}\label{umowa_8h_ad8a58bdf585fdd2b662aee98fc660586}} 
+\index{umowa.h@{umowa.h}!rodzaj\_umowy@{rodzaj\_umowy}}
+\index{rodzaj\_umowy@{rodzaj\_umowy}!umowa.h@{umowa.h}}
+\doxysubsubsection{\texorpdfstring{rodzaj\_umowy()}{rodzaj\_umowy()}}
+{\footnotesize\ttfamily bool rodzaj\+\_\+umowy (\begin{DoxyParamCaption}\item[{int $\ast$}]{typ }\end{DoxyParamCaption})}
+
+
+
+Okreslenie rodzaju umowy (sprzedaz / usluga) 
+
+
+\begin{DoxyParams}{Parameters}
+{\em typ} & Numer typu umowy \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Zwraca true lub false, w zaleznosci czy dzialanie sie powiedzie 
+\end{DoxyReturn}

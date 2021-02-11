@@ -1,0 +1,245 @@
+\hypertarget{sprawdzanie_8h}{}\doxysection{C\+:/\+Users/\+Sara/source/repos/\+P\+K2/\+Projekt/sprawdzanie.h File Reference}
+\label{sprawdzanie_8h}\index{C:/Users/Sara/source/repos/PK2/Projekt/sprawdzanie.h@{C:/Users/Sara/source/repos/PK2/Projekt/sprawdzanie.h}}
+{\ttfamily \#include $<$stdio.\+h$>$}\newline
+{\ttfamily \#include $<$string.\+h$>$}\newline
+{\ttfamily \#include $<$stdlib.\+h$>$}\newline
+{\ttfamily \#include $<$time.\+h$>$}\newline
+{\ttfamily \#include \char`\"{}wczytaj.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}umowa.\+h\char`\"{}}\newline
+\doxysubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{sprawdzanie_8h_a2e680c2a434659bae09866bab68b2c0e}{ustaw\+\_\+date}} (struct tm $\ast$czas\+TM)
+\begin{DoxyCompactList}\small\item\em Ustawianie wprowadzonej przez uzytkownika daty. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{sprawdzanie_8h_a81ee66673a1c70f557218777544fc3aa}{pokaz\+\_\+date}} (struct tm $\ast$data)
+\begin{DoxyCompactList}\small\item\em Wyswietla wskazana date. \end{DoxyCompactList}\item 
+bool \mbox{\hyperlink{sprawdzanie_8h_a8784bfcffd4a4a6e7db81152a4a76575}{poprawnosc}} (struct tm $\ast$czaswystawienia, struct tm $\ast$czaszakonczenia, int i)
+\begin{DoxyCompactList}\small\item\em Sprawdza czy data zakonczenia nie jest przed data wystawienia. \end{DoxyCompactList}\item 
+bool \mbox{\hyperlink{sprawdzanie_8h_ab1333fb342b3f569ce0747389fd54e38}{sprawdz\+\_\+date}} (int $\ast$dzien, int $\ast$miesiac, int $\ast$rok)
+\begin{DoxyCompactList}\small\item\em Sprawdza czy wprowadzona data jest poprawna. \end{DoxyCompactList}\item 
+bool \mbox{\hyperlink{sprawdzanie_8h_a711a335e75546c22aa5bc8cc2c12ca24}{sprawdz\+\_\+godzine}} (int $\ast$godzina, int $\ast$minuty)
+\begin{DoxyCompactList}\small\item\em Sprawdza czy wprowadzona godzina jest poprawna. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{sprawdzanie_8h_a8d6353d2b348df1ee318bc1eb5a1cf62}{przestepny}} (int rok)
+\begin{DoxyCompactList}\small\item\em Sprawdza, czy wprowadzony rok jest przestepny. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{sprawdzanie_8h_a31115ee774f73c08716d9c3637158eeb}{dzien\+Tygodnia}} (int dzien, int miesiac, int rok, int $\ast$dzienroku)
+\begin{DoxyCompactList}\small\item\em Sprawdza na podstawie wprowadzonych danych jaki dzien tygodnia. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{sprawdzanie_8h_ac38bb4a6f1d0e4576296cd4a4ee153dd}{zmiana}} (int $\ast$slowo\mbox{[}$\,$\mbox{]})
+\begin{DoxyCompactList}\small\item\em Zamienia litery w danym slowie na duze. \end{DoxyCompactList}\item 
+bool \mbox{\hyperlink{sprawdzanie_8h_a941f31019c0604244e4f67f831f94c39}{sprawdz\+\_\+string}} (char $\ast$s)
+\begin{DoxyCompactList}\small\item\em Sprawdza czy wprowadzony napis jest zlozony tylko z liter. \end{DoxyCompactList}\item 
+bool \mbox{\hyperlink{sprawdzanie_8h_a6edbedbe28cf2cf86aec6b601ddf8aa9}{sprawdz\+\_\+numer\+\_\+podatkowy}} (int $\ast$liczba)
+\begin{DoxyCompactList}\small\item\em Sprawdza czy numer podatkowy ma dlugosc 4 i czy jest zlozony z cyfer. \end{DoxyCompactList}\item 
+char $\ast$ \mbox{\hyperlink{sprawdzanie_8h_ac388867312b6783c13e6f3b332254b94}{zczytajnumer}} ()
+\begin{DoxyCompactList}\small\item\em Zczytywanie numeru podatkowego. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Function Documentation}
+\mbox{\Hypertarget{sprawdzanie_8h_a31115ee774f73c08716d9c3637158eeb}\label{sprawdzanie_8h_a31115ee774f73c08716d9c3637158eeb}} 
+\index{sprawdzanie.h@{sprawdzanie.h}!dzienTygodnia@{dzienTygodnia}}
+\index{dzienTygodnia@{dzienTygodnia}!sprawdzanie.h@{sprawdzanie.h}}
+\doxysubsubsection{\texorpdfstring{dzienTygodnia()}{dzienTygodnia()}}
+{\footnotesize\ttfamily int dzien\+Tygodnia (\begin{DoxyParamCaption}\item[{int}]{dzien,  }\item[{int}]{miesiac,  }\item[{int}]{rok,  }\item[{int $\ast$}]{dzienroku }\end{DoxyParamCaption})}
+
+
+
+Sprawdza na podstawie wprowadzonych danych jaki dzien tygodnia. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em dzien} & Wprowadzony dzien przez uzytkownika \\
+\hline
+{\em miesiac} & Wprowadzony miesiac przez uzytkownika \\
+\hline
+{\em rok} & Wprowadzony rok przez uzytkownika \\
+\hline
+{\em dzienroku} & Referencja w celu wyliczenia dnia roku \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Zwraca numer dnia tygodnia 
+\end{DoxyReturn}
+\mbox{\Hypertarget{sprawdzanie_8h_a81ee66673a1c70f557218777544fc3aa}\label{sprawdzanie_8h_a81ee66673a1c70f557218777544fc3aa}} 
+\index{sprawdzanie.h@{sprawdzanie.h}!pokaz\_date@{pokaz\_date}}
+\index{pokaz\_date@{pokaz\_date}!sprawdzanie.h@{sprawdzanie.h}}
+\doxysubsubsection{\texorpdfstring{pokaz\_date()}{pokaz\_date()}}
+{\footnotesize\ttfamily void pokaz\+\_\+date (\begin{DoxyParamCaption}\item[{struct tm $\ast$}]{data }\end{DoxyParamCaption})}
+
+
+
+Wyswietla wskazana date. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em data} & Referencja do daty \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nic nie zwraca 
+\end{DoxyReturn}
+\mbox{\Hypertarget{sprawdzanie_8h_a8784bfcffd4a4a6e7db81152a4a76575}\label{sprawdzanie_8h_a8784bfcffd4a4a6e7db81152a4a76575}} 
+\index{sprawdzanie.h@{sprawdzanie.h}!poprawnosc@{poprawnosc}}
+\index{poprawnosc@{poprawnosc}!sprawdzanie.h@{sprawdzanie.h}}
+\doxysubsubsection{\texorpdfstring{poprawnosc()}{poprawnosc()}}
+{\footnotesize\ttfamily bool poprawnosc (\begin{DoxyParamCaption}\item[{struct tm $\ast$}]{czaswystawienia,  }\item[{struct tm $\ast$}]{czaszakonczenia,  }\item[{int}]{i }\end{DoxyParamCaption})}
+
+
+
+Sprawdza czy data zakonczenia nie jest przed data wystawienia. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em czaswystawienia} & Referencja do daty wystawienia \\
+\hline
+{\em czaszakonczenia} & Referencja do daty zakonczenia \\
+\hline
+{\em i} & Zmienna informujaca, czy nalezy wyswietlic komunikat czy nie \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Zwraca true lub false, w zaleznosci czy data zakonczenia jest po dacie wystawienia 
+\end{DoxyReturn}
+\mbox{\Hypertarget{sprawdzanie_8h_a8d6353d2b348df1ee318bc1eb5a1cf62}\label{sprawdzanie_8h_a8d6353d2b348df1ee318bc1eb5a1cf62}} 
+\index{sprawdzanie.h@{sprawdzanie.h}!przestepny@{przestepny}}
+\index{przestepny@{przestepny}!sprawdzanie.h@{sprawdzanie.h}}
+\doxysubsubsection{\texorpdfstring{przestepny()}{przestepny()}}
+{\footnotesize\ttfamily int przestepny (\begin{DoxyParamCaption}\item[{int}]{rok }\end{DoxyParamCaption})}
+
+
+
+Sprawdza, czy wprowadzony rok jest przestepny. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em rok} & Wprowadzony rok przez uzytkownika \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Zwraca 1 lub 0, w zaleznosci czy rok jest przestepny czy nie 
+\end{DoxyReturn}
+\mbox{\Hypertarget{sprawdzanie_8h_ab1333fb342b3f569ce0747389fd54e38}\label{sprawdzanie_8h_ab1333fb342b3f569ce0747389fd54e38}} 
+\index{sprawdzanie.h@{sprawdzanie.h}!sprawdz\_date@{sprawdz\_date}}
+\index{sprawdz\_date@{sprawdz\_date}!sprawdzanie.h@{sprawdzanie.h}}
+\doxysubsubsection{\texorpdfstring{sprawdz\_date()}{sprawdz\_date()}}
+{\footnotesize\ttfamily bool sprawdz\+\_\+date (\begin{DoxyParamCaption}\item[{int $\ast$}]{dzien,  }\item[{int $\ast$}]{miesiac,  }\item[{int $\ast$}]{rok }\end{DoxyParamCaption})}
+
+
+
+Sprawdza czy wprowadzona data jest poprawna. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em dzien} & Referencja do wprowadzonego dnia przez uzytkownika \\
+\hline
+{\em miesiac} & Referencja do wprowadzonego miesiaca przez uzytkownika \\
+\hline
+{\em rok} & Referencja do wprowadzonego roku przez uzytkownika \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Zwraca true lub false, w zaleznosci czy data jest poprawna 
+\end{DoxyReturn}
+\mbox{\Hypertarget{sprawdzanie_8h_a711a335e75546c22aa5bc8cc2c12ca24}\label{sprawdzanie_8h_a711a335e75546c22aa5bc8cc2c12ca24}} 
+\index{sprawdzanie.h@{sprawdzanie.h}!sprawdz\_godzine@{sprawdz\_godzine}}
+\index{sprawdz\_godzine@{sprawdz\_godzine}!sprawdzanie.h@{sprawdzanie.h}}
+\doxysubsubsection{\texorpdfstring{sprawdz\_godzine()}{sprawdz\_godzine()}}
+{\footnotesize\ttfamily bool sprawdz\+\_\+godzine (\begin{DoxyParamCaption}\item[{int $\ast$}]{godzina,  }\item[{int $\ast$}]{minuty }\end{DoxyParamCaption})}
+
+
+
+Sprawdza czy wprowadzona godzina jest poprawna. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em godzina} & Referencja do wprowadzonej godziny przez uzytkownika \\
+\hline
+{\em minuty} & Referencja do wprowadzonych minut przez uzytkownika \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Zwraca true lub false, w zaleznosci czy godzina jest poprawna 
+\end{DoxyReturn}
+\mbox{\Hypertarget{sprawdzanie_8h_a6edbedbe28cf2cf86aec6b601ddf8aa9}\label{sprawdzanie_8h_a6edbedbe28cf2cf86aec6b601ddf8aa9}} 
+\index{sprawdzanie.h@{sprawdzanie.h}!sprawdz\_numer\_podatkowy@{sprawdz\_numer\_podatkowy}}
+\index{sprawdz\_numer\_podatkowy@{sprawdz\_numer\_podatkowy}!sprawdzanie.h@{sprawdzanie.h}}
+\doxysubsubsection{\texorpdfstring{sprawdz\_numer\_podatkowy()}{sprawdz\_numer\_podatkowy()}}
+{\footnotesize\ttfamily bool sprawdz\+\_\+numer\+\_\+podatkowy (\begin{DoxyParamCaption}\item[{int $\ast$}]{liczba }\end{DoxyParamCaption})}
+
+
+
+Sprawdza czy numer podatkowy ma dlugosc 4 i czy jest zlozony z cyfer. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em slowo} & Referencja do danej liczby \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Zwraca true lub false, w zaleznosci czy numer podatkowy jest poprawny 
+\end{DoxyReturn}
+\mbox{\Hypertarget{sprawdzanie_8h_a941f31019c0604244e4f67f831f94c39}\label{sprawdzanie_8h_a941f31019c0604244e4f67f831f94c39}} 
+\index{sprawdzanie.h@{sprawdzanie.h}!sprawdz\_string@{sprawdz\_string}}
+\index{sprawdz\_string@{sprawdz\_string}!sprawdzanie.h@{sprawdzanie.h}}
+\doxysubsubsection{\texorpdfstring{sprawdz\_string()}{sprawdz\_string()}}
+{\footnotesize\ttfamily bool sprawdz\+\_\+string (\begin{DoxyParamCaption}\item[{char $\ast$}]{s }\end{DoxyParamCaption})}
+
+
+
+Sprawdza czy wprowadzony napis jest zlozony tylko z liter. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em slowo} & Referencja do danego slowa \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Zwraca true lub false, w zaleznosci czy napis jest poprawny 
+\end{DoxyReturn}
+\mbox{\Hypertarget{sprawdzanie_8h_a2e680c2a434659bae09866bab68b2c0e}\label{sprawdzanie_8h_a2e680c2a434659bae09866bab68b2c0e}} 
+\index{sprawdzanie.h@{sprawdzanie.h}!ustaw\_date@{ustaw\_date}}
+\index{ustaw\_date@{ustaw\_date}!sprawdzanie.h@{sprawdzanie.h}}
+\doxysubsubsection{\texorpdfstring{ustaw\_date()}{ustaw\_date()}}
+{\footnotesize\ttfamily void ustaw\+\_\+date (\begin{DoxyParamCaption}\item[{struct tm $\ast$}]{czas\+TM }\end{DoxyParamCaption})}
+
+
+
+Ustawianie wprowadzonej przez uzytkownika daty. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em czas\+TM} & Referencja do wlasnie ustawianej daty \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nic nie zwraca 
+\end{DoxyReturn}
+\mbox{\Hypertarget{sprawdzanie_8h_ac388867312b6783c13e6f3b332254b94}\label{sprawdzanie_8h_ac388867312b6783c13e6f3b332254b94}} 
+\index{sprawdzanie.h@{sprawdzanie.h}!zczytajnumer@{zczytajnumer}}
+\index{zczytajnumer@{zczytajnumer}!sprawdzanie.h@{sprawdzanie.h}}
+\doxysubsubsection{\texorpdfstring{zczytajnumer()}{zczytajnumer()}}
+{\footnotesize\ttfamily char$\ast$ zczytajnumer (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Zczytywanie numeru podatkowego. 
+
+\begin{DoxyReturn}{Returns}
+Zwraca wpisany przez uzytkownika numer podatkowy 
+\end{DoxyReturn}
+\mbox{\Hypertarget{sprawdzanie_8h_ac38bb4a6f1d0e4576296cd4a4ee153dd}\label{sprawdzanie_8h_ac38bb4a6f1d0e4576296cd4a4ee153dd}} 
+\index{sprawdzanie.h@{sprawdzanie.h}!zmiana@{zmiana}}
+\index{zmiana@{zmiana}!sprawdzanie.h@{sprawdzanie.h}}
+\doxysubsubsection{\texorpdfstring{zmiana()}{zmiana()}}
+{\footnotesize\ttfamily void zmiana (\begin{DoxyParamCaption}\item[{int $\ast$}]{slowo\mbox{[}$\,$\mbox{]} }\end{DoxyParamCaption})}
+
+
+
+Zamienia litery w danym slowie na duze. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em slowo} & Referencja do danego slowa \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nic nie zwraca 
+\end{DoxyReturn}

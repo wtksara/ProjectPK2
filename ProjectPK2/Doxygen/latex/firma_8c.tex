@@ -1,0 +1,145 @@
+\hypertarget{firma_8c}{}\doxysection{C\+:/\+Users/\+Sara/source/repos/\+P\+K2/\+Projekt/firma.c File Reference}
+\label{firma_8c}\index{C:/Users/Sara/source/repos/PK2/Projekt/firma.c@{C:/Users/Sara/source/repos/PK2/Projekt/firma.c}}
+{\ttfamily \#include \char`\"{}firma.\+h\char`\"{}}\newline
+\doxysubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+struct \mbox{\hyperlink{structfirma}{firma}} $\ast$ \mbox{\hyperlink{firma_8c_a5dcb092c4501214412e5be270ada2579}{nowa\+\_\+firma}} (struct \mbox{\hyperlink{structfirma}{firma}} $\ast$$\ast$glowa, int $\ast$wybor, int $\ast$pnumer, int $\ast$check)
+\begin{DoxyCompactList}\small\item\em Tworzenie nowych elementow typu firma. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{firma_8c_ac9b09f65515c3b4e66d47cddfc3e9a91}{dodaj\+\_\+do\+\_\+listy\+\_\+firm}} (struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$pmenu, struct \mbox{\hyperlink{structfirma}{firma}} $\ast$$\ast$nowa)
+\begin{DoxyCompactList}\small\item\em Dodanie do listy danej firmy. \end{DoxyCompactList}\item 
+struct \mbox{\hyperlink{structfirma}{firma}} $\ast$$\ast$ \mbox{\hyperlink{firma_8c_a3af3650a27f4955f32bb2e18019cd0ca}{znajdz\+\_\+firme}} (struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$pmenu, int pnumer)
+\begin{DoxyCompactList}\small\item\em Znajdz firme po numerze podatkowym w liscie. \end{DoxyCompactList}\item 
+bool \mbox{\hyperlink{firma_8c_a3b3c21572e05bad3427ccafbac6160c8}{sprawdz\+\_\+numer\+\_\+firmy}} (struct \mbox{\hyperlink{structfirma}{firma}} $\ast$$\ast$glowa, int pnumer)
+\begin{DoxyCompactList}\small\item\em Sprawdza czy dany numer podatkowy znajduje sie w bazie danych firm. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{firma_8c_a6c0e84ac221b9827517ea8758eb586d1}{dane\+\_\+firmy}} (void $\ast$$\ast$dane)
+\begin{DoxyCompactList}\small\item\em Wyswietl dane firmy. \end{DoxyCompactList}\item 
+bool \mbox{\hyperlink{firma_8c_a48c6b3cac338dc126d397184859210da}{wszystkie\+\_\+firmy}} (struct \mbox{\hyperlink{structfirma}{firma}} $\ast$glowa, int numer)
+\begin{DoxyCompactList}\small\item\em Wyswietl wszystkie firmy w bazie danych firm, z wyjatkiem nowo dodanej firmy. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Function Documentation}
+\mbox{\Hypertarget{firma_8c_a6c0e84ac221b9827517ea8758eb586d1}\label{firma_8c_a6c0e84ac221b9827517ea8758eb586d1}} 
+\index{firma.c@{firma.c}!dane\_firmy@{dane\_firmy}}
+\index{dane\_firmy@{dane\_firmy}!firma.c@{firma.c}}
+\doxysubsubsection{\texorpdfstring{dane\_firmy()}{dane\_firmy()}}
+{\footnotesize\ttfamily void dane\+\_\+firmy (\begin{DoxyParamCaption}\item[{void $\ast$$\ast$}]{dane }\end{DoxyParamCaption})}
+
+
+
+Wyswietl dane firmy. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em glowa} & Referencja do glowy listy firm \\
+\hline
+{\em pnumer} & Numer podatkowy danej firmy \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nic nie zwraca 
+\end{DoxyReturn}
+\mbox{\Hypertarget{firma_8c_ac9b09f65515c3b4e66d47cddfc3e9a91}\label{firma_8c_ac9b09f65515c3b4e66d47cddfc3e9a91}} 
+\index{firma.c@{firma.c}!dodaj\_do\_listy\_firm@{dodaj\_do\_listy\_firm}}
+\index{dodaj\_do\_listy\_firm@{dodaj\_do\_listy\_firm}!firma.c@{firma.c}}
+\doxysubsubsection{\texorpdfstring{dodaj\_do\_listy\_firm()}{dodaj\_do\_listy\_firm()}}
+{\footnotesize\ttfamily void dodaj\+\_\+do\+\_\+listy\+\_\+firm (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$}]{pmenu,  }\item[{struct \mbox{\hyperlink{structfirma}{firma}} $\ast$$\ast$}]{nowa }\end{DoxyParamCaption})}
+
+
+
+Dodanie do listy danej firmy. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em pmenu} & Referencja do menu, ktore zawiera glowy wszystkich list \\
+\hline
+{\em nowa} & Referencja do nowo utworzonej firmy \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nic nie zwraca 
+\end{DoxyReturn}
+\mbox{\Hypertarget{firma_8c_a5dcb092c4501214412e5be270ada2579}\label{firma_8c_a5dcb092c4501214412e5be270ada2579}} 
+\index{firma.c@{firma.c}!nowa\_firma@{nowa\_firma}}
+\index{nowa\_firma@{nowa\_firma}!firma.c@{firma.c}}
+\doxysubsubsection{\texorpdfstring{nowa\_firma()}{nowa\_firma()}}
+{\footnotesize\ttfamily struct \mbox{\hyperlink{structfirma}{firma}}$\ast$ nowa\+\_\+firma (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structfirma}{firma}} $\ast$$\ast$}]{glowa,  }\item[{int $\ast$}]{wybor,  }\item[{int $\ast$}]{pnumer,  }\item[{int $\ast$}]{check }\end{DoxyParamCaption})}
+
+
+
+Tworzenie nowych elementow typu firma. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em glowa} & Referencja do glowy listy firm \\
+\hline
+{\em wybor} & Okresla czy firma ma byc z bazy, czy nowa \\
+\hline
+{\em pnumer} & Numer podatkowy w przypadku wyszukiwania z bazy \\
+\hline
+{\em check} & Zmienna pomocnicza w przypadku nie znalezenia danej firmy w bazie \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Zwraca nowy element typu firma 
+\end{DoxyReturn}
+\mbox{\Hypertarget{firma_8c_a3b3c21572e05bad3427ccafbac6160c8}\label{firma_8c_a3b3c21572e05bad3427ccafbac6160c8}} 
+\index{firma.c@{firma.c}!sprawdz\_numer\_firmy@{sprawdz\_numer\_firmy}}
+\index{sprawdz\_numer\_firmy@{sprawdz\_numer\_firmy}!firma.c@{firma.c}}
+\doxysubsubsection{\texorpdfstring{sprawdz\_numer\_firmy()}{sprawdz\_numer\_firmy()}}
+{\footnotesize\ttfamily bool sprawdz\+\_\+numer\+\_\+firmy (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structfirma}{firma}} $\ast$$\ast$}]{glowa,  }\item[{int}]{pnumer }\end{DoxyParamCaption})}
+
+
+
+Sprawdza czy dany numer podatkowy znajduje sie w bazie danych firm. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em glowa} & Referencja do glowy listy firm \\
+\hline
+{\em pnumer} & Szukany numer podatkowy \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Zwraca true lub false, w zaleznosci czy dzialanie sie powiedzie 
+\end{DoxyReturn}
+\mbox{\Hypertarget{firma_8c_a48c6b3cac338dc126d397184859210da}\label{firma_8c_a48c6b3cac338dc126d397184859210da}} 
+\index{firma.c@{firma.c}!wszystkie\_firmy@{wszystkie\_firmy}}
+\index{wszystkie\_firmy@{wszystkie\_firmy}!firma.c@{firma.c}}
+\doxysubsubsection{\texorpdfstring{wszystkie\_firmy()}{wszystkie\_firmy()}}
+{\footnotesize\ttfamily bool wszystkie\+\_\+firmy (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structfirma}{firma}} $\ast$}]{glowa,  }\item[{int}]{pnumer }\end{DoxyParamCaption})}
+
+
+
+Wyswietl wszystkie firmy w bazie danych firm, z wyjatkiem nowo dodanej firmy. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em glowa} & Referencja do glowy listy firm \\
+\hline
+{\em pnumer} & Numer firm, ktora wlasnie zostala dodana do bazy \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Zwraca true lub false, w zaleznosci czy dzialanie sie powiedzie 
+\end{DoxyReturn}
+\mbox{\Hypertarget{firma_8c_a3af3650a27f4955f32bb2e18019cd0ca}\label{firma_8c_a3af3650a27f4955f32bb2e18019cd0ca}} 
+\index{firma.c@{firma.c}!znajdz\_firme@{znajdz\_firme}}
+\index{znajdz\_firme@{znajdz\_firme}!firma.c@{firma.c}}
+\doxysubsubsection{\texorpdfstring{znajdz\_firme()}{znajdz\_firme()}}
+{\footnotesize\ttfamily struct \mbox{\hyperlink{structfirma}{firma}}$\ast$$\ast$ znajdz\+\_\+firme (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$}]{pmenu,  }\item[{int}]{pnumer }\end{DoxyParamCaption})}
+
+
+
+Znajdz firme po numerze podatkowym w liscie. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em pmenu} & Referencja do menu, ktore zawiera glowy wszystkich list \\
+\hline
+{\em pnume} & Numer podatkowy szukanej firmy \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Zwraca szukany element typu firma 
+\end{DoxyReturn}

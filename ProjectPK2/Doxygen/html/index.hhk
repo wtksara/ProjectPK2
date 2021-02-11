@@ -1,0 +1,830 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a398fedbb50aae7e04d19ada73554fada"><param name="Name" value="ARTUR"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a516f2a562c577a9cb35490f2553116e7"><param name="Name" value="BAJER"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a0c89cb186869504a642e54a9dae6b904"><param name="Name" value="CAMERANA"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a51a9da2011e1ec0f0a39a143a8ef7f25"><param name="Name" value="CEMENT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8c.html#accad6c299820157342782a6a21608659"><param name="Name" value="czytajlinie"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8c.html#accad6c299820157342782a6a21608659"><param name="Name" value="wczytaj.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8h.html#accad6c299820157342782a6a21608659"><param name="Name" value="czytajlinie"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8c.html#a6c0e84ac221b9827517ea8758eb586d1"><param name="Name" value="dane_firmy"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8c.html#a6c0e84ac221b9827517ea8758eb586d1"><param name="Name" value="firma.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8h.html#a6c0e84ac221b9827517ea8758eb586d1"><param name="Name" value="dane_firmy"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8c.html#abe3a5b198059d82c8f5b6df638fee3c1"><param name="Name" value="dane_osoby"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8c.html#abe3a5b198059d82c8f5b6df638fee3c1"><param name="Name" value="osoba.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8h.html#abe3a5b198059d82c8f5b6df638fee3c1"><param name="Name" value="dane_osoby"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html#aa288ffec4e5ad3d8d01025957bf97cdb"><param name="Name" value="datawystawienia"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html#a01b383c60e3a1d418f4611adc4158e9f"><param name="Name" value="datazakonczenia"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a78e51c9b3558a08a2c29b2e3f4825d12"><param name="Name" value="DELLER"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="umowa_8c.html#a2c007ac05001208588bdae78bf5c3729"><param name="Name" value="dodaj_do_listy"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="umowa_8c.html#a2c007ac05001208588bdae78bf5c3729"><param name="Name" value="umowa.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="umowa_8h.html#a2c007ac05001208588bdae78bf5c3729"><param name="Name" value="dodaj_do_listy"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8c.html#ac9b09f65515c3b4e66d47cddfc3e9a91"><param name="Name" value="dodaj_do_listy_firm"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8c.html#ac9b09f65515c3b4e66d47cddfc3e9a91"><param name="Name" value="firma.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8h.html#ac9b09f65515c3b4e66d47cddfc3e9a91"><param name="Name" value="dodaj_do_listy_firm"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8c.html#a7d66c4c5f6827ebd067208a42059921c"><param name="Name" value="dodaj_do_listy_osob"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8c.html#a7d66c4c5f6827ebd067208a42059921c"><param name="Name" value="osoba.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8h.html#a7d66c4c5f6827ebd067208a42059921c"><param name="Name" value="dodaj_do_listy_osob"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html#a9e0e84e1fb6e689623e5ce4aceed4938"><param name="Name" value="dostawca"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a30823361f05c4dda0c2fbe6cd79f6d8b"><param name="Name" value="DOWOZ"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a3ab6a9cb5619146c0d68e4304ce6a9b8"><param name="Name" value="DUK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#a31115ee774f73c08716d9c3637158eeb"><param name="Name" value="dzienTygodnia"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#a31115ee774f73c08716d9c3637158eeb"><param name="Name" value="sprawdzanie.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html#a31115ee774f73c08716d9c3637158eeb"><param name="Name" value="dzienTygodnia"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html#a7a3174385363b9e717f4a23f0a52e976"><param name="Name" value="element"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structmenu.html#a7bc2caa0922067ef20f87aa3c2baa48e"><param name="Name" value="fglowa"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structfirma.html"><param name="Name" value="firma"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8c.html"><param name="Name" value="firma.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8c.html#a6c0e84ac221b9827517ea8758eb586d1"><param name="Name" value="dane_firmy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8c.html"><param name="Name" value="firma.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8c.html#ac9b09f65515c3b4e66d47cddfc3e9a91"><param name="Name" value="dodaj_do_listy_firm"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8c.html"><param name="Name" value="firma.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8c.html#a5dcb092c4501214412e5be270ada2579"><param name="Name" value="nowa_firma"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8c.html"><param name="Name" value="firma.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8c.html#a3b3c21572e05bad3427ccafbac6160c8"><param name="Name" value="sprawdz_numer_firmy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8c.html"><param name="Name" value="firma.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8c.html#a48c6b3cac338dc126d397184859210da"><param name="Name" value="wszystkie_firmy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8c.html#a3af3650a27f4955f32bb2e18019cd0ca"><param name="Name" value="firma.c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8h.html"><param name="Name" value="firma.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8h.html#a6c0e84ac221b9827517ea8758eb586d1"><param name="Name" value="dane_firmy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8h.html"><param name="Name" value="firma.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8h.html#ac9b09f65515c3b4e66d47cddfc3e9a91"><param name="Name" value="dodaj_do_listy_firm"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8h.html"><param name="Name" value="firma.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8h.html#a5dcb092c4501214412e5be270ada2579"><param name="Name" value="nowa_firma"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8h.html"><param name="Name" value="firma.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8h.html#a3b3c21572e05bad3427ccafbac6160c8"><param name="Name" value="sprawdz_numer_firmy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8h.html"><param name="Name" value="firma.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8h.html#a7dff3797633c925b1fc22582d34ca6de"><param name="Name" value="wszystkie_firmy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8h.html#a3af3650a27f4955f32bb2e18019cd0ca"><param name="Name" value="firma.h"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structfirma.html"><param name="Name" value="firma"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structfirma.html#a4e236417a22ffeb9a5aedd17a8453b1b"><param name="Name" value="nastepny"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structfirma.html"><param name="Name" value="firma"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structfirma.html#ae7ef4f56d6e56ee7b086b7c5659ebd61"><param name="Name" value="nazwa"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structfirma.html"><param name="Name" value="firma"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structfirma.html#aadc26cf9ec956999c55ab29f76fa9a31"><param name="Name" value="numer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structfirma.html#a81e098a5430053fd64703aa334638e5b"><param name="Name" value="firma"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structmenu.html#aa6c6d46f5f099d977355e082aa59c1a6"><param name="Name" value="fogon"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structmenu.html#a495c412ab2796e6422d801933954b337"><param name="Name" value="glowa"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structosoba.html#af7d94db1f36bd344ef23fcf4f302a801"><param name="Name" value="imie"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html"><param name="Name" value="input.txt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a398fedbb50aae7e04d19ada73554fada"><param name="Name" value="ARTUR"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html"><param name="Name" value="input.txt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a516f2a562c577a9cb35490f2553116e7"><param name="Name" value="BAJER"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html"><param name="Name" value="input.txt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a0c89cb186869504a642e54a9dae6b904"><param name="Name" value="CAMERANA"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html"><param name="Name" value="input.txt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a51a9da2011e1ec0f0a39a143a8ef7f25"><param name="Name" value="CEMENT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html"><param name="Name" value="input.txt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a78e51c9b3558a08a2c29b2e3f4825d12"><param name="Name" value="DELLER"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html"><param name="Name" value="input.txt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a30823361f05c4dda0c2fbe6cd79f6d8b"><param name="Name" value="DOWOZ"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html"><param name="Name" value="input.txt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a3ab6a9cb5619146c0d68e4304ce6a9b8"><param name="Name" value="DUK"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html"><param name="Name" value="input.txt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#aafbb2f0bf7f8eb6dfdbe10335d5ac844"><param name="Name" value="JAKUB"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html"><param name="Name" value="input.txt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a1366e8ba47ad9ab781a942070c5d3730"><param name="Name" value="JANOSZ"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html"><param name="Name" value="input.txt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a8c44a1a151a22dcd65db67b647f86500"><param name="Name" value="KABALA"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html"><param name="Name" value="input.txt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a3a1799ab53d9842af13dc5daab80139b"><param name="Name" value="KAMIL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html"><param name="Name" value="input.txt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a03e1f7d201871c167a76e5f1b7c3a2c7"><param name="Name" value="KAROLINA"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html"><param name="Name" value="input.txt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a1701b21e4debf61018e40b42300b6ce3"><param name="Name" value="KOC"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html"><param name="Name" value="input.txt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a4f455729ff64596319030bfe27873d96"><param name="Name" value="KOGUT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html"><param name="Name" value="input.txt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a9a057766b6c73128b4ca335857c61660"><param name="Name" value="KOMPUTER"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html"><param name="Name" value="input.txt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a2ffe6e3900198d6266c2dab18dff8df6"><param name="Name" value="LENOVO"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html"><param name="Name" value="input.txt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a27c1a0091314b3bd55e280f52c0540ee"><param name="Name" value="MARTA"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html"><param name="Name" value="input.txt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a87c2ab1db20d58643fe9b26bf739cde3"><param name="Name" value="MASTERS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html"><param name="Name" value="input.txt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a5ce37c9e325e45d4a76d7212af6621de"><param name="Name" value="MATEUSZ"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html"><param name="Name" value="input.txt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a6d1886811772c499bddd0a92c63012de"><param name="Name" value="NATALIA"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html"><param name="Name" value="input.txt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#ac30fd0350049921ded4b2588aca46f8c"><param name="Name" value="PIASEK"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html"><param name="Name" value="input.txt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a14f507c1c465296ae0c4c37d95b2ce09"><param name="Name" value="SAMOCHOD"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html"><param name="Name" value="input.txt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#accf9821611f54f9054d0344a483d05eb"><param name="Name" value="TELEFON"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html"><param name="Name" value="input.txt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a74a17844c11b9a0a4f0e666492102a9c"><param name="Name" value="WEGIEL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html"><param name="Name" value="input.txt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a717ea1f747d1d9c6db50e4b821360b43"><param name="Name" value="WITEK"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a14b4a70addb79038d1faf2490e8af128"><param name="Name" value="input.txt"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#aafbb2f0bf7f8eb6dfdbe10335d5ac844"><param name="Name" value="JAKUB"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a1366e8ba47ad9ab781a942070c5d3730"><param name="Name" value="JANOSZ"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a8c44a1a151a22dcd65db67b647f86500"><param name="Name" value="KABALA"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a3a1799ab53d9842af13dc5daab80139b"><param name="Name" value="KAMIL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a03e1f7d201871c167a76e5f1b7c3a2c7"><param name="Name" value="KAROLINA"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a1701b21e4debf61018e40b42300b6ce3"><param name="Name" value="KOC"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a4f455729ff64596319030bfe27873d96"><param name="Name" value="KOGUT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a9a057766b6c73128b4ca335857c61660"><param name="Name" value="KOMPUTER"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="umowa_8c.html#a87a6dd9b9b9301dc2b04989bafab6d4b"><param name="Name" value="kto_umowa"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="umowa_8c.html#a87a6dd9b9b9301dc2b04989bafab6d4b"><param name="Name" value="umowa.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="umowa_8h.html#a87a6dd9b9b9301dc2b04989bafab6d4b"><param name="Name" value="kto_umowa"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html#ac2b9af213ba282d08fcfddf0e778ba12"><param name="Name" value="kwotabrutto"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html#afa3b2b15961bd25854473af5f6425c85"><param name="Name" value="kwotanetto"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a2ffe6e3900198d6266c2dab18dff8df6"><param name="Name" value="LENOVO"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structmenu.html#a9a59f9d427b83b789fa4ad8cfc1283ed"><param name="Name" value="licznik"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_source_8c.html#a3c04138a5bfe5d72780bb7e82a18e627"><param name="Name" value="main"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a27c1a0091314b3bd55e280f52c0540ee"><param name="Name" value="MARTA"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a87c2ab1db20d58643fe9b26bf739cde3"><param name="Name" value="MASTERS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a5ce37c9e325e45d4a76d7212af6621de"><param name="Name" value="MATEUSZ"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structmenu.html"><param name="Name" value="menu"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html"><param name="Name" value="menu.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html#a38add172ba94dd52f37b1aa0bacc39cb"><param name="Name" value="niezaplacone_umowy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html"><param name="Name" value="menu.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html#acbf36295c7717dd8e717cf1f1d3a8a44"><param name="Name" value="pokaz_umowe"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html"><param name="Name" value="menu.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html#af3a0264a9cfc3aafe2b64b6655b189f6"><param name="Name" value="pomoc"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html"><param name="Name" value="menu.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html#aafd85d04947b8d7b51f179bee1a70062"><param name="Name" value="przedawnione_umowy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html"><param name="Name" value="menu.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html#af4d52145366c20f5becca16b17d2a257"><param name="Name" value="ustaw_menu"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html"><param name="Name" value="menu.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html#a8c678cb1f52f02034a98f8c729d4e1fb"><param name="Name" value="usun_umowe"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html"><param name="Name" value="menu.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html#a3f3e463efd4e0e55e751f17af204c5cc"><param name="Name" value="zaplac_umowe"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html"><param name="Name" value="menu.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html#a18c57cc8adac81a1a9f0e3118ae26394"><param name="Name" value="znajdz_umowe"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html#a8019d516488f773c534667fdf69538e3"><param name="Name" value="menu.c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8h.html"><param name="Name" value="menu.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8h.html#a38add172ba94dd52f37b1aa0bacc39cb"><param name="Name" value="niezaplacone_umowy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8h.html"><param name="Name" value="menu.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8h.html#acbf36295c7717dd8e717cf1f1d3a8a44"><param name="Name" value="pokaz_umowe"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8h.html"><param name="Name" value="menu.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8h.html#af3a0264a9cfc3aafe2b64b6655b189f6"><param name="Name" value="pomoc"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8h.html"><param name="Name" value="menu.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8h.html#aafd85d04947b8d7b51f179bee1a70062"><param name="Name" value="przedawnione_umowy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8h.html"><param name="Name" value="menu.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8h.html#af4d52145366c20f5becca16b17d2a257"><param name="Name" value="ustaw_menu"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8h.html"><param name="Name" value="menu.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8h.html#a8c678cb1f52f02034a98f8c729d4e1fb"><param name="Name" value="usun_umowe"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8h.html"><param name="Name" value="menu.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8h.html#a3f3e463efd4e0e55e751f17af204c5cc"><param name="Name" value="zaplac_umowe"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8h.html"><param name="Name" value="menu.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8h.html#a18c57cc8adac81a1a9f0e3118ae26394"><param name="Name" value="znajdz_umowe"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8h.html#a8019d516488f773c534667fdf69538e3"><param name="Name" value="menu.h"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structmenu.html"><param name="Name" value="menu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structmenu.html#a7bc2caa0922067ef20f87aa3c2baa48e"><param name="Name" value="fglowa"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structmenu.html"><param name="Name" value="menu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structmenu.html#aa6c6d46f5f099d977355e082aa59c1a6"><param name="Name" value="fogon"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structmenu.html"><param name="Name" value="menu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structmenu.html#a495c412ab2796e6422d801933954b337"><param name="Name" value="glowa"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structmenu.html"><param name="Name" value="menu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structmenu.html#a9a59f9d427b83b789fa4ad8cfc1283ed"><param name="Name" value="licznik"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structmenu.html"><param name="Name" value="menu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structmenu.html#a45f9ebebc443a6438addf2bc243ef890"><param name="Name" value="oglowa"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structmenu.html"><param name="Name" value="menu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structmenu.html#a13afa95a7f04632ca07c434d723e9d40"><param name="Name" value="ogon"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structmenu.html#a73f09f180266dca70898b50ce0e85bc1"><param name="Name" value="menu"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html#a75ffe992004542bbb5bcd6835dda3826"><param name="Name" value="nabywca"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structfirma.html#a4e236417a22ffeb9a5aedd17a8453b1b"><param name="Name" value="nastepny"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structfirma.html#a4e236417a22ffeb9a5aedd17a8453b1b"><param name="Name" value="firma"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structosoba.html#a9e2e556bc5230d48dc82ed6ab65b9eca"><param name="Name" value="nastepny"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structosoba.html#a9e2e556bc5230d48dc82ed6ab65b9eca"><param name="Name" value="osoba"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html#a0d2666664cebbc15584ede341b778a19"><param name="Name" value="nastepny"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a6d1886811772c499bddd0a92c63012de"><param name="Name" value="NATALIA"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structfirma.html#ae7ef4f56d6e56ee7b086b7c5659ebd61"><param name="Name" value="nazwa"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structosoba.html#afa26d8d990cb698446f44d1a84452436"><param name="Name" value="nazwisko"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html#a38add172ba94dd52f37b1aa0bacc39cb"><param name="Name" value="niezaplacone_umowy"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html#a38add172ba94dd52f37b1aa0bacc39cb"><param name="Name" value="menu.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8h.html#a38add172ba94dd52f37b1aa0bacc39cb"><param name="Name" value="niezaplacone_umowy"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8c.html#a5dcb092c4501214412e5be270ada2579"><param name="Name" value="nowa_firma"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8c.html#a5dcb092c4501214412e5be270ada2579"><param name="Name" value="firma.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8h.html#a5dcb092c4501214412e5be270ada2579"><param name="Name" value="nowa_firma"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8c.html#aa4da4cce2acf28a62cf7ab488fc3df9f"><param name="Name" value="nowa_osoba"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8c.html#aa4da4cce2acf28a62cf7ab488fc3df9f"><param name="Name" value="osoba.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8h.html#aa4da4cce2acf28a62cf7ab488fc3df9f"><param name="Name" value="nowa_osoba"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="umowa_8c.html#a7a45d8c4b770cec79e9f6acd2c2cd32e"><param name="Name" value="nowa_umowa"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="umowa_8c.html#a7a45d8c4b770cec79e9f6acd2c2cd32e"><param name="Name" value="umowa.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="umowa_8h.html#a7a45d8c4b770cec79e9f6acd2c2cd32e"><param name="Name" value="nowa_umowa"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structfirma.html#aadc26cf9ec956999c55ab29f76fa9a31"><param name="Name" value="numer"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structfirma.html#aadc26cf9ec956999c55ab29f76fa9a31"><param name="Name" value="firma"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structosoba.html#a8771b4f082019fecc0a754d098ca22f8"><param name="Name" value="numer"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structosoba.html#a8771b4f082019fecc0a754d098ca22f8"><param name="Name" value="osoba"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html#a90ecd1ae1361b0209c610db58c98a889"><param name="Name" value="numer"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structmenu.html#a45f9ebebc443a6438addf2bc243ef890"><param name="Name" value="oglowa"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structmenu.html#a13afa95a7f04632ca07c434d723e9d40"><param name="Name" value="ogon"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structmenu.html#a73f09f180266dca70898b50ce0e85bc1"><param name="Name" value="oogon"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structosoba.html"><param name="Name" value="osoba"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8c.html"><param name="Name" value="osoba.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8c.html#abe3a5b198059d82c8f5b6df638fee3c1"><param name="Name" value="dane_osoby"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8c.html"><param name="Name" value="osoba.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8c.html#a7d66c4c5f6827ebd067208a42059921c"><param name="Name" value="dodaj_do_listy_osob"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8c.html"><param name="Name" value="osoba.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8c.html#aa4da4cce2acf28a62cf7ab488fc3df9f"><param name="Name" value="nowa_osoba"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8c.html"><param name="Name" value="osoba.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8c.html#adc8080521161c6bfd60a19b952d86321"><param name="Name" value="sprawdz_numer_osoby"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8c.html"><param name="Name" value="osoba.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8c.html#a6c02b436197eebc854f0cf48b7076f75"><param name="Name" value="wszystkie_osoby"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8c.html#a3434d222e62ed8ee969b1da57835d2c6"><param name="Name" value="osoba.c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8h.html"><param name="Name" value="osoba.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8h.html#abe3a5b198059d82c8f5b6df638fee3c1"><param name="Name" value="dane_osoby"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8h.html"><param name="Name" value="osoba.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8h.html#a7d66c4c5f6827ebd067208a42059921c"><param name="Name" value="dodaj_do_listy_osob"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8h.html"><param name="Name" value="osoba.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8h.html#aa4da4cce2acf28a62cf7ab488fc3df9f"><param name="Name" value="nowa_osoba"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8h.html"><param name="Name" value="osoba.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8h.html#adc8080521161c6bfd60a19b952d86321"><param name="Name" value="sprawdz_numer_osoby"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8h.html"><param name="Name" value="osoba.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8h.html#a9848606a73a26b7f6b1d90879e20d2ab"><param name="Name" value="wszystkie_osoby"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8h.html#a3434d222e62ed8ee969b1da57835d2c6"><param name="Name" value="osoba.h"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structosoba.html"><param name="Name" value="osoba"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structosoba.html#af7d94db1f36bd344ef23fcf4f302a801"><param name="Name" value="imie"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structosoba.html"><param name="Name" value="osoba"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structosoba.html#a9e2e556bc5230d48dc82ed6ab65b9eca"><param name="Name" value="nastepny"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structosoba.html"><param name="Name" value="osoba"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structosoba.html#afa26d8d990cb698446f44d1a84452436"><param name="Name" value="nazwisko"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structosoba.html"><param name="Name" value="osoba"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structosoba.html#a8771b4f082019fecc0a754d098ca22f8"><param name="Name" value="numer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structosoba.html#a8c2477f2ef70a5b96622b3da4536b75f"><param name="Name" value="osoba"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#ac30fd0350049921ded4b2588aca46f8c"><param name="Name" value="PIASEK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="umowa_8c.html#a61a245263ef19baaa7661f31f945523e"><param name="Name" value="pliczba"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#a907c171d7b384ce6eef7e5614347094b"><param name="Name" value="pokaz_date"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#a907c171d7b384ce6eef7e5614347094b"><param name="Name" value="sprawdzanie.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html#a81ee66673a1c70f557218777544fc3aa"><param name="Name" value="pokaz_date"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html#acbf36295c7717dd8e717cf1f1d3a8a44"><param name="Name" value="pokaz_umowe"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html#acbf36295c7717dd8e717cf1f1d3a8a44"><param name="Name" value="menu.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8h.html#acbf36295c7717dd8e717cf1f1d3a8a44"><param name="Name" value="pokaz_umowe"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html#af3a0264a9cfc3aafe2b64b6655b189f6"><param name="Name" value="pomoc"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html#af3a0264a9cfc3aafe2b64b6655b189f6"><param name="Name" value="menu.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8h.html#af3a0264a9cfc3aafe2b64b6655b189f6"><param name="Name" value="pomoc"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#a8784bfcffd4a4a6e7db81152a4a76575"><param name="Name" value="poprawnosc"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#a8784bfcffd4a4a6e7db81152a4a76575"><param name="Name" value="sprawdzanie.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html#a8784bfcffd4a4a6e7db81152a4a76575"><param name="Name" value="poprawnosc"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structfirma.html#a81e098a5430053fd64703aa334638e5b"><param name="Name" value="poprzedni"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structfirma.html#a81e098a5430053fd64703aa334638e5b"><param name="Name" value="firma"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structosoba.html#a8c2477f2ef70a5b96622b3da4536b75f"><param name="Name" value="poprzedni"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structosoba.html#a8c2477f2ef70a5b96622b3da4536b75f"><param name="Name" value="osoba"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html#a98272cecf0d775d30b3e11422c0d74ea"><param name="Name" value="poprzedni"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html#aafd85d04947b8d7b51f179bee1a70062"><param name="Name" value="przedawnione_umowy"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html#aafd85d04947b8d7b51f179bee1a70062"><param name="Name" value="menu.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8h.html#aafd85d04947b8d7b51f179bee1a70062"><param name="Name" value="przedawnione_umowy"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#a8d6353d2b348df1ee318bc1eb5a1cf62"><param name="Name" value="przestepny"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#a8d6353d2b348df1ee318bc1eb5a1cf62"><param name="Name" value="sprawdzanie.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html#a8d6353d2b348df1ee318bc1eb5a1cf62"><param name="Name" value="przestepny"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html#aed7f5dc5038765b5656874af942d244a"><param name="Name" value="rodzaj"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="umowa_8c.html#ad8a58bdf585fdd2b662aee98fc660586"><param name="Name" value="rodzaj_umowy"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="umowa_8c.html#ad8a58bdf585fdd2b662aee98fc660586"><param name="Name" value="umowa.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="umowa_8h.html#ad8a58bdf585fdd2b662aee98fc660586"><param name="Name" value="rodzaj_umowy"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a14f507c1c465296ae0c4c37d95b2ce09"><param name="Name" value="SAMOCHOD"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_source_8c.html"><param name="Name" value="Source.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_source_8c.html#a3c04138a5bfe5d72780bb7e82a18e627"><param name="Name" value="main"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_source_8c.html"><param name="Name" value="Source.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_source_8c.html#a131188a3ac990c85da33983db3e81080"><param name="Name" value="WEJSCIOWY_PLIK"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_source_8c.html#aa70770f5eb0c4d8408fc39b97419e74e"><param name="Name" value="Source.c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#ab1333fb342b3f569ce0747389fd54e38"><param name="Name" value="sprawdz_date"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#ab1333fb342b3f569ce0747389fd54e38"><param name="Name" value="sprawdzanie.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html#ab1333fb342b3f569ce0747389fd54e38"><param name="Name" value="sprawdz_date"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#a711a335e75546c22aa5bc8cc2c12ca24"><param name="Name" value="sprawdz_godzine"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#a711a335e75546c22aa5bc8cc2c12ca24"><param name="Name" value="sprawdzanie.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html#a711a335e75546c22aa5bc8cc2c12ca24"><param name="Name" value="sprawdz_godzine"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8c.html#a3b3c21572e05bad3427ccafbac6160c8"><param name="Name" value="sprawdz_numer_firmy"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8c.html#a3b3c21572e05bad3427ccafbac6160c8"><param name="Name" value="firma.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8h.html#a3b3c21572e05bad3427ccafbac6160c8"><param name="Name" value="sprawdz_numer_firmy"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8c.html#adc8080521161c6bfd60a19b952d86321"><param name="Name" value="sprawdz_numer_osoby"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8c.html#adc8080521161c6bfd60a19b952d86321"><param name="Name" value="osoba.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8h.html#adc8080521161c6bfd60a19b952d86321"><param name="Name" value="sprawdz_numer_osoby"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#a6edbedbe28cf2cf86aec6b601ddf8aa9"><param name="Name" value="sprawdz_numer_podatkowy"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#a6edbedbe28cf2cf86aec6b601ddf8aa9"><param name="Name" value="sprawdzanie.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html#a6edbedbe28cf2cf86aec6b601ddf8aa9"><param name="Name" value="sprawdz_numer_podatkowy"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#a941f31019c0604244e4f67f831f94c39"><param name="Name" value="sprawdz_string"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#a941f31019c0604244e4f67f831f94c39"><param name="Name" value="sprawdzanie.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html#a941f31019c0604244e4f67f831f94c39"><param name="Name" value="sprawdz_string"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html"><param name="Name" value="sprawdzanie.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#a31115ee774f73c08716d9c3637158eeb"><param name="Name" value="dzienTygodnia"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html"><param name="Name" value="sprawdzanie.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#a907c171d7b384ce6eef7e5614347094b"><param name="Name" value="pokaz_date"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html"><param name="Name" value="sprawdzanie.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#a8784bfcffd4a4a6e7db81152a4a76575"><param name="Name" value="poprawnosc"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html"><param name="Name" value="sprawdzanie.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#a8d6353d2b348df1ee318bc1eb5a1cf62"><param name="Name" value="przestepny"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html"><param name="Name" value="sprawdzanie.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#ab1333fb342b3f569ce0747389fd54e38"><param name="Name" value="sprawdz_date"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html"><param name="Name" value="sprawdzanie.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#a711a335e75546c22aa5bc8cc2c12ca24"><param name="Name" value="sprawdz_godzine"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html"><param name="Name" value="sprawdzanie.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#a6edbedbe28cf2cf86aec6b601ddf8aa9"><param name="Name" value="sprawdz_numer_podatkowy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html"><param name="Name" value="sprawdzanie.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#a941f31019c0604244e4f67f831f94c39"><param name="Name" value="sprawdz_string"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html"><param name="Name" value="sprawdzanie.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#a2e680c2a434659bae09866bab68b2c0e"><param name="Name" value="ustaw_date"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html"><param name="Name" value="sprawdzanie.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#ac388867312b6783c13e6f3b332254b94"><param name="Name" value="zczytajnumer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#ac38bb4a6f1d0e4576296cd4a4ee153dd"><param name="Name" value="sprawdzanie.c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html"><param name="Name" value="sprawdzanie.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html#a31115ee774f73c08716d9c3637158eeb"><param name="Name" value="dzienTygodnia"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html"><param name="Name" value="sprawdzanie.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html#a81ee66673a1c70f557218777544fc3aa"><param name="Name" value="pokaz_date"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html"><param name="Name" value="sprawdzanie.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html#a8784bfcffd4a4a6e7db81152a4a76575"><param name="Name" value="poprawnosc"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html"><param name="Name" value="sprawdzanie.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html#a8d6353d2b348df1ee318bc1eb5a1cf62"><param name="Name" value="przestepny"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html"><param name="Name" value="sprawdzanie.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html#ab1333fb342b3f569ce0747389fd54e38"><param name="Name" value="sprawdz_date"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html"><param name="Name" value="sprawdzanie.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html#a711a335e75546c22aa5bc8cc2c12ca24"><param name="Name" value="sprawdz_godzine"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html"><param name="Name" value="sprawdzanie.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html#a6edbedbe28cf2cf86aec6b601ddf8aa9"><param name="Name" value="sprawdz_numer_podatkowy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html"><param name="Name" value="sprawdzanie.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html#a941f31019c0604244e4f67f831f94c39"><param name="Name" value="sprawdz_string"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html"><param name="Name" value="sprawdzanie.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html#a2e680c2a434659bae09866bab68b2c0e"><param name="Name" value="ustaw_date"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html"><param name="Name" value="sprawdzanie.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html#ac388867312b6783c13e6f3b332254b94"><param name="Name" value="zczytajnumer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html#ac38bb4a6f1d0e4576296cd4a4ee153dd"><param name="Name" value="sprawdzanie.h"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html#a569731979a460c728b0aa453f6bb4273"><param name="Name" value="stan"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html#aa23c867e79b6b24a789dbc62e294cbed"><param name="Name" value="stawkapodatku"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#accf9821611f54f9054d0344a483d05eb"><param name="Name" value="TELEFON"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html#a6ab0cc59f51b4058162cea864d23eeac"><param name="Name" value="typ"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html"><param name="Name" value="umowa"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="umowa_8c.html"><param name="Name" value="umowa.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="umowa_8c.html#a2c007ac05001208588bdae78bf5c3729"><param name="Name" value="dodaj_do_listy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="umowa_8c.html"><param name="Name" value="umowa.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="umowa_8c.html#a87a6dd9b9b9301dc2b04989bafab6d4b"><param name="Name" value="kto_umowa"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="umowa_8c.html"><param name="Name" value="umowa.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="umowa_8c.html#a7a45d8c4b770cec79e9f6acd2c2cd32e"><param name="Name" value="nowa_umowa"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="umowa_8c.html"><param name="Name" value="umowa.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="umowa_8c.html#a61a245263ef19baaa7661f31f945523e"><param name="Name" value="pliczba"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="umowa_8c.html#ad8a58bdf585fdd2b662aee98fc660586"><param name="Name" value="umowa.c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="umowa_8h.html"><param name="Name" value="umowa.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="umowa_8h.html#a2c007ac05001208588bdae78bf5c3729"><param name="Name" value="dodaj_do_listy"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="umowa_8h.html"><param name="Name" value="umowa.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="umowa_8h.html#a87a6dd9b9b9301dc2b04989bafab6d4b"><param name="Name" value="kto_umowa"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="umowa_8h.html"><param name="Name" value="umowa.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="umowa_8h.html#a7a45d8c4b770cec79e9f6acd2c2cd32e"><param name="Name" value="nowa_umowa"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="umowa_8h.html#ad8a58bdf585fdd2b662aee98fc660586"><param name="Name" value="umowa.h"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html"><param name="Name" value="umowa"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html#aa288ffec4e5ad3d8d01025957bf97cdb"><param name="Name" value="datawystawienia"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html"><param name="Name" value="umowa"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html#a01b383c60e3a1d418f4611adc4158e9f"><param name="Name" value="datazakonczenia"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html"><param name="Name" value="umowa"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html#a9e0e84e1fb6e689623e5ce4aceed4938"><param name="Name" value="dostawca"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html"><param name="Name" value="umowa"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html#a7a3174385363b9e717f4a23f0a52e976"><param name="Name" value="element"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html"><param name="Name" value="umowa"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html#ac2b9af213ba282d08fcfddf0e778ba12"><param name="Name" value="kwotabrutto"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html"><param name="Name" value="umowa"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html#afa3b2b15961bd25854473af5f6425c85"><param name="Name" value="kwotanetto"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html"><param name="Name" value="umowa"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html#a75ffe992004542bbb5bcd6835dda3826"><param name="Name" value="nabywca"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html"><param name="Name" value="umowa"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html#a0d2666664cebbc15584ede341b778a19"><param name="Name" value="nastepny"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html"><param name="Name" value="umowa"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html#a90ecd1ae1361b0209c610db58c98a889"><param name="Name" value="numer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html"><param name="Name" value="umowa"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html#a98272cecf0d775d30b3e11422c0d74ea"><param name="Name" value="poprzedni"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html"><param name="Name" value="umowa"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html#aed7f5dc5038765b5656874af942d244a"><param name="Name" value="rodzaj"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html"><param name="Name" value="umowa"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html#a569731979a460c728b0aa453f6bb4273"><param name="Name" value="stan"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html"><param name="Name" value="umowa"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html#aa23c867e79b6b24a789dbc62e294cbed"><param name="Name" value="stawkapodatku"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structumowa.html#a6ab0cc59f51b4058162cea864d23eeac"><param name="Name" value="umowa"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#a2e680c2a434659bae09866bab68b2c0e"><param name="Name" value="ustaw_date"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#a2e680c2a434659bae09866bab68b2c0e"><param name="Name" value="sprawdzanie.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html#a2e680c2a434659bae09866bab68b2c0e"><param name="Name" value="ustaw_date"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html#af4d52145366c20f5becca16b17d2a257"><param name="Name" value="ustaw_menu"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html#af4d52145366c20f5becca16b17d2a257"><param name="Name" value="menu.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8h.html#af4d52145366c20f5becca16b17d2a257"><param name="Name" value="ustaw_menu"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html#a8c678cb1f52f02034a98f8c729d4e1fb"><param name="Name" value="usun_umowe"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html#a8c678cb1f52f02034a98f8c729d4e1fb"><param name="Name" value="menu.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8h.html#a8c678cb1f52f02034a98f8c729d4e1fb"><param name="Name" value="usun_umowe"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8c.html"><param name="Name" value="wczytaj.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8c.html#accad6c299820157342782a6a21608659"><param name="Name" value="czytajlinie"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8c.html"><param name="Name" value="wczytaj.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8c.html#a886922d8cea690662a68a11ea9de0a63"><param name="Name" value="zaladuj"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8c.html"><param name="Name" value="wczytaj.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8c.html#a0552b9657449384014627b6736ae015b"><param name="Name" value="zaladuj__firme"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8c.html"><param name="Name" value="wczytaj.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8c.html#a5ab10395cf37a6cf708618f65ee13c62"><param name="Name" value="zaladuj__osobe"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8c.html#a995a4e0c74143dd07dd9ab892f0136e6"><param name="Name" value="wczytaj.c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8h.html"><param name="Name" value="wczytaj.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8h.html#accad6c299820157342782a6a21608659"><param name="Name" value="czytajlinie"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8h.html"><param name="Name" value="wczytaj.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8h.html#a886922d8cea690662a68a11ea9de0a63"><param name="Name" value="zaladuj"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8h.html"><param name="Name" value="wczytaj.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8h.html#a0552b9657449384014627b6736ae015b"><param name="Name" value="zaladuj__firme"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8h.html"><param name="Name" value="wczytaj.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8h.html#a5ab10395cf37a6cf708618f65ee13c62"><param name="Name" value="zaladuj__osobe"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8h.html#a995a4e0c74143dd07dd9ab892f0136e6"><param name="Name" value="wczytaj.h"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a74a17844c11b9a0a4f0e666492102a9c"><param name="Name" value="WEGIEL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_source_8c.html#a131188a3ac990c85da33983db3e81080"><param name="Name" value="WEJSCIOWY_PLIK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a717ea1f747d1d9c6db50e4b821360b43"><param name="Name" value="WITEK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8c.html#a48c6b3cac338dc126d397184859210da"><param name="Name" value="wszystkie_firmy"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8c.html#a48c6b3cac338dc126d397184859210da"><param name="Name" value="firma.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8h.html#a7dff3797633c925b1fc22582d34ca6de"><param name="Name" value="wszystkie_firmy"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8c.html#a6c02b436197eebc854f0cf48b7076f75"><param name="Name" value="wszystkie_osoby"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8c.html#a6c02b436197eebc854f0cf48b7076f75"><param name="Name" value="osoba.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8h.html#a9848606a73a26b7f6b1d90879e20d2ab"><param name="Name" value="wszystkie_osoby"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_source_8c.html#aa70770f5eb0c4d8408fc39b97419e74e"><param name="Name" value="WYJSCIOWY_PLIK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8c.html#a886922d8cea690662a68a11ea9de0a63"><param name="Name" value="zaladuj"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8c.html#a886922d8cea690662a68a11ea9de0a63"><param name="Name" value="wczytaj.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8h.html#a886922d8cea690662a68a11ea9de0a63"><param name="Name" value="zaladuj"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8c.html#a0552b9657449384014627b6736ae015b"><param name="Name" value="zaladuj__firme"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8c.html#a0552b9657449384014627b6736ae015b"><param name="Name" value="wczytaj.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8h.html#a0552b9657449384014627b6736ae015b"><param name="Name" value="zaladuj__firme"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8c.html#a5ab10395cf37a6cf708618f65ee13c62"><param name="Name" value="zaladuj__osobe"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8c.html#a5ab10395cf37a6cf708618f65ee13c62"><param name="Name" value="wczytaj.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8h.html#a5ab10395cf37a6cf708618f65ee13c62"><param name="Name" value="zaladuj__osobe"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8c.html#a995a4e0c74143dd07dd9ab892f0136e6"><param name="Name" value="zaladuj_umowe"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8c.html#a995a4e0c74143dd07dd9ab892f0136e6"><param name="Name" value="wczytaj.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wczytaj_8h.html#a995a4e0c74143dd07dd9ab892f0136e6"><param name="Name" value="zaladuj_umowe"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="zapisz_8c.html"><param name="Name" value="zapisz.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="zapisz_8c.html#ab1692b32ad0655d67c5c04b5c56f02d5"><param name="Name" value="zapisz"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="zapisz_8c.html#a800c5a88c228d9b87fa9de05198edd52"><param name="Name" value="zapisz.c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="zapisz_8h.html"><param name="Name" value="zapisz.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="zapisz_8h.html#ab1692b32ad0655d67c5c04b5c56f02d5"><param name="Name" value="zapisz"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="zapisz_8h.html#a800c5a88c228d9b87fa9de05198edd52"><param name="Name" value="zapisz.h"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="zapisz_8c.html#ab1692b32ad0655d67c5c04b5c56f02d5"><param name="Name" value="zapisz"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="zapisz_8c.html#ab1692b32ad0655d67c5c04b5c56f02d5"><param name="Name" value="zapisz.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="zapisz_8h.html#ab1692b32ad0655d67c5c04b5c56f02d5"><param name="Name" value="zapisz"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="zapisz_8c.html#a800c5a88c228d9b87fa9de05198edd52"><param name="Name" value="zapisz_date"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="zapisz_8c.html#a800c5a88c228d9b87fa9de05198edd52"><param name="Name" value="zapisz.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="zapisz_8h.html#a800c5a88c228d9b87fa9de05198edd52"><param name="Name" value="zapisz_date"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html#a3f3e463efd4e0e55e751f17af204c5cc"><param name="Name" value="zaplac_umowe"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html#a3f3e463efd4e0e55e751f17af204c5cc"><param name="Name" value="menu.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8h.html#a3f3e463efd4e0e55e751f17af204c5cc"><param name="Name" value="zaplac_umowe"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#ac388867312b6783c13e6f3b332254b94"><param name="Name" value="zczytajnumer"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#ac388867312b6783c13e6f3b332254b94"><param name="Name" value="sprawdzanie.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html#ac388867312b6783c13e6f3b332254b94"><param name="Name" value="zczytajnumer"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="input_8txt.html#a14b4a70addb79038d1faf2490e8af128"><param name="Name" value="ZIEMIA"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#ac38bb4a6f1d0e4576296cd4a4ee153dd"><param name="Name" value="zmiana"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8c.html#ac38bb4a6f1d0e4576296cd4a4ee153dd"><param name="Name" value="sprawdzanie.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="sprawdzanie_8h.html#ac38bb4a6f1d0e4576296cd4a4ee153dd"><param name="Name" value="zmiana"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8c.html#a3af3650a27f4955f32bb2e18019cd0ca"><param name="Name" value="znajdz_firme"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8c.html#a3af3650a27f4955f32bb2e18019cd0ca"><param name="Name" value="firma.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="firma_8h.html#a3af3650a27f4955f32bb2e18019cd0ca"><param name="Name" value="znajdz_firme"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8c.html#a3434d222e62ed8ee969b1da57835d2c6"><param name="Name" value="znajdz_osobe"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8c.html#a3434d222e62ed8ee969b1da57835d2c6"><param name="Name" value="osoba.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="osoba_8h.html#a3434d222e62ed8ee969b1da57835d2c6"><param name="Name" value="znajdz_osobe"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html#a18c57cc8adac81a1a9f0e3118ae26394"><param name="Name" value="znajdz_umowe"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html#a18c57cc8adac81a1a9f0e3118ae26394"><param name="Name" value="menu.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8h.html#a18c57cc8adac81a1a9f0e3118ae26394"><param name="Name" value="znajdz_umowe"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html#a8019d516488f773c534667fdf69538e3"><param name="Name" value="zwolnij_pamiec"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8c.html#a8019d516488f773c534667fdf69538e3"><param name="Name" value="menu.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="menu_8h.html#a8019d516488f773c534667fdf69538e3"><param name="Name" value="zwolnij_pamiec"></OBJECT>
+</UL>
+</BODY>
+</HTML>

@@ -1,0 +1,120 @@
+\hypertarget{wczytaj_8c}{}\doxysection{C\+:/\+Users/\+Sara/source/repos/\+P\+K2/\+Projekt/wczytaj.c File Reference}
+\label{wczytaj_8c}\index{C:/Users/Sara/source/repos/PK2/Projekt/wczytaj.c@{C:/Users/Sara/source/repos/PK2/Projekt/wczytaj.c}}
+{\ttfamily \#include \char`\"{}sprawdzanie.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}wczytaj.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}umowa.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}menu.\+h\char`\"{}}\newline
+\doxysubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{wczytaj_8c_a5ab10395cf37a6cf708618f65ee13c62}{zaladuj\+\_\+\+\_\+osobe}} (struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$pmenu, char $\ast$buffer)
+\begin{DoxyCompactList}\small\item\em Laduje dana osobe z pliku do bazy osob. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{wczytaj_8c_a0552b9657449384014627b6736ae015b}{zaladuj\+\_\+\+\_\+firme}} (struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$pmenu, char $\ast$buffer)
+\begin{DoxyCompactList}\small\item\em Laduje dana firme z pliku do bazy firm. \end{DoxyCompactList}\item 
+struct \mbox{\hyperlink{structumowa}{umowa}} $\ast$ \mbox{\hyperlink{wczytaj_8c_a995a4e0c74143dd07dd9ab892f0136e6}{zaladuj\+\_\+umowe}} (struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$pmenu, char $\ast$buffer)
+\begin{DoxyCompactList}\small\item\em Laduje dana umowe z pliku do bazy umow. \end{DoxyCompactList}\item 
+char $\ast$ \mbox{\hyperlink{wczytaj_8c_accad6c299820157342782a6a21608659}{czytajlinie}} (F\+I\+LE $\ast$input)
+\begin{DoxyCompactList}\small\item\em Czyta linia po lini z pliku. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{wczytaj_8c_a886922d8cea690662a68a11ea9de0a63}{zaladuj}} (struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$pmenu, F\+I\+LE $\ast$input)
+\begin{DoxyCompactList}\small\item\em Zaladowanie danych z pliku do programu. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Function Documentation}
+\mbox{\Hypertarget{wczytaj_8c_accad6c299820157342782a6a21608659}\label{wczytaj_8c_accad6c299820157342782a6a21608659}} 
+\index{wczytaj.c@{wczytaj.c}!czytajlinie@{czytajlinie}}
+\index{czytajlinie@{czytajlinie}!wczytaj.c@{wczytaj.c}}
+\doxysubsubsection{\texorpdfstring{czytajlinie()}{czytajlinie()}}
+{\footnotesize\ttfamily char$\ast$ czytajlinie (\begin{DoxyParamCaption}\item[{F\+I\+LE $\ast$}]{input }\end{DoxyParamCaption})}
+
+
+
+Czyta linia po lini z pliku. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em input} & Plik wejsciowy do odczytu \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Zwraca lancuch znakow 
+\end{DoxyReturn}
+\mbox{\Hypertarget{wczytaj_8c_a886922d8cea690662a68a11ea9de0a63}\label{wczytaj_8c_a886922d8cea690662a68a11ea9de0a63}} 
+\index{wczytaj.c@{wczytaj.c}!zaladuj@{zaladuj}}
+\index{zaladuj@{zaladuj}!wczytaj.c@{wczytaj.c}}
+\doxysubsubsection{\texorpdfstring{zaladuj()}{zaladuj()}}
+{\footnotesize\ttfamily void zaladuj (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$}]{pmenu,  }\item[{F\+I\+LE $\ast$}]{input }\end{DoxyParamCaption})}
+
+
+
+Zaladowanie danych z pliku do programu. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em pmenu} & Referencja do menu, ktore zawiera glowy wszystkich list \\
+\hline
+{\em input} & Plik wejsciowy do odczytu \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nic nie zwraca 
+\end{DoxyReturn}
+\mbox{\Hypertarget{wczytaj_8c_a0552b9657449384014627b6736ae015b}\label{wczytaj_8c_a0552b9657449384014627b6736ae015b}} 
+\index{wczytaj.c@{wczytaj.c}!zaladuj\_\_firme@{zaladuj\_\_firme}}
+\index{zaladuj\_\_firme@{zaladuj\_\_firme}!wczytaj.c@{wczytaj.c}}
+\doxysubsubsection{\texorpdfstring{zaladuj\_\_firme()}{zaladuj\_\_firme()}}
+{\footnotesize\ttfamily void zaladuj\+\_\+\+\_\+firme (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$}]{pmenu,  }\item[{char $\ast$}]{buffer }\end{DoxyParamCaption})}
+
+
+
+Laduje dana firme z pliku do bazy firm. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em pmenu} & Referencja do menu, ktore zawiera glowy wszystkich list \\
+\hline
+{\em buffer} & Lancuch znakowy zawierajacy dane do odczytu \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nic nie zwraca 
+\end{DoxyReturn}
+\mbox{\Hypertarget{wczytaj_8c_a5ab10395cf37a6cf708618f65ee13c62}\label{wczytaj_8c_a5ab10395cf37a6cf708618f65ee13c62}} 
+\index{wczytaj.c@{wczytaj.c}!zaladuj\_\_osobe@{zaladuj\_\_osobe}}
+\index{zaladuj\_\_osobe@{zaladuj\_\_osobe}!wczytaj.c@{wczytaj.c}}
+\doxysubsubsection{\texorpdfstring{zaladuj\_\_osobe()}{zaladuj\_\_osobe()}}
+{\footnotesize\ttfamily void zaladuj\+\_\+\+\_\+osobe (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$}]{pmenu,  }\item[{char $\ast$}]{buffer }\end{DoxyParamCaption})}
+
+
+
+Laduje dana osobe z pliku do bazy osob. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em pmenu} & Referencja do menu, ktore zawiera glowy wszystkich list \\
+\hline
+{\em buffer} & Lancuch znakowy zawierajacy dane do odczytu \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nic nie zwraca 
+\end{DoxyReturn}
+\mbox{\Hypertarget{wczytaj_8c_a995a4e0c74143dd07dd9ab892f0136e6}\label{wczytaj_8c_a995a4e0c74143dd07dd9ab892f0136e6}} 
+\index{wczytaj.c@{wczytaj.c}!zaladuj\_umowe@{zaladuj\_umowe}}
+\index{zaladuj\_umowe@{zaladuj\_umowe}!wczytaj.c@{wczytaj.c}}
+\doxysubsubsection{\texorpdfstring{zaladuj\_umowe()}{zaladuj\_umowe()}}
+{\footnotesize\ttfamily struct \mbox{\hyperlink{structumowa}{umowa}}$\ast$ zaladuj\+\_\+umowe (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$}]{pmenu,  }\item[{char $\ast$}]{buffer }\end{DoxyParamCaption})}
+
+
+
+Laduje dana umowe z pliku do bazy umow. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em pmenu} & Referencja do menu, ktore zawiera glowy wszystkich list \\
+\hline
+{\em buffer} & Lancuch znakowy zawierajacy dane do odczytu \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Zwraca nowa elemenet typu umowa 
+\end{DoxyReturn}

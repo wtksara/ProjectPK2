@@ -1,0 +1,199 @@
+\hypertarget{structumowa}{}\doxysection{umowa Struct Reference}
+\label{structumowa}\index{umowa@{umowa}}
+
+
+Struktura, ktora zawiera szczegolowe informacje na temat zawartej umowy.  
+
+
+
+
+{\ttfamily \#include $<$umowa.\+h$>$}
+
+\doxysubsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+int \mbox{\hyperlink{structumowa_a90ecd1ae1361b0209c610db58c98a889}{numer}}
+\begin{DoxyCompactList}\small\item\em Numer indywidualny -\/ porzadkowy. \end{DoxyCompactList}\item 
+struct tm \mbox{\hyperlink{structumowa_aa288ffec4e5ad3d8d01025957bf97cdb}{datawystawienia}}
+\begin{DoxyCompactList}\small\item\em Zawiera informacje o dacie, godzinie wystawienia umowy. \end{DoxyCompactList}\item 
+struct tm \mbox{\hyperlink{structumowa_a01b383c60e3a1d418f4611adc4158e9f}{datazakonczenia}}
+\begin{DoxyCompactList}\small\item\em Zawiera informacje o dacie, godzinie zakonczenia lub dokonania uslugi/zakupu. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{structumowa_aed7f5dc5038765b5656874af942d244a}{rodzaj}}
+\begin{DoxyCompactList}\small\item\em Umowa strony. \end{DoxyCompactList}\item 
+void $\ast$ \mbox{\hyperlink{structumowa_a75ffe992004542bbb5bcd6835dda3826}{nabywca}}
+\begin{DoxyCompactList}\small\item\em Nabywca. \end{DoxyCompactList}\item 
+void $\ast$ \mbox{\hyperlink{structumowa_a9e0e84e1fb6e689623e5ce4aceed4938}{dostawca}}
+\begin{DoxyCompactList}\small\item\em Dostawca. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{structumowa_a6ab0cc59f51b4058162cea864d23eeac}{typ}}
+\begin{DoxyCompactList}\small\item\em Umowa sprzedazy lub uslugi. \end{DoxyCompactList}\item 
+char \mbox{\hyperlink{structumowa_a7a3174385363b9e717f4a23f0a52e976}{element}} \mbox{[}25\mbox{]}
+\begin{DoxyCompactList}\small\item\em Na co wystawiona umowa. \end{DoxyCompactList}\item 
+float \mbox{\hyperlink{structumowa_afa3b2b15961bd25854473af5f6425c85}{kwotanetto}}
+\begin{DoxyCompactList}\small\item\em Kwota bez podatku. \end{DoxyCompactList}\item 
+float \mbox{\hyperlink{structumowa_aa23c867e79b6b24a789dbc62e294cbed}{stawkapodatku}}
+\begin{DoxyCompactList}\small\item\em Stawka podatku. \end{DoxyCompactList}\item 
+float \mbox{\hyperlink{structumowa_ac2b9af213ba282d08fcfddf0e778ba12}{kwotabrutto}}
+\begin{DoxyCompactList}\small\item\em Kwota z podatkiem. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{structumowa_a569731979a460c728b0aa453f6bb4273}{stan}}
+\begin{DoxyCompactList}\small\item\em Zaplacone -\/1 / Niezaplacona -\/ 0. \end{DoxyCompactList}\item 
+struct \mbox{\hyperlink{structumowa}{umowa}} $\ast$ \mbox{\hyperlink{structumowa_a98272cecf0d775d30b3e11422c0d74ea}{poprzedni}}
+\begin{DoxyCompactList}\small\item\em Wskaznik na poprzedni element typu umowa. \end{DoxyCompactList}\item 
+struct \mbox{\hyperlink{structumowa}{umowa}} $\ast$ \mbox{\hyperlink{structumowa_a0d2666664cebbc15584ede341b778a19}{nastepny}}
+\begin{DoxyCompactList}\small\item\em Wskaznik na kolejny element typu umowa. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Struktura, ktora zawiera szczegolowe informacje na temat zawartej umowy. 
+
+\doxysubsection{Member Data Documentation}
+\mbox{\Hypertarget{structumowa_aa288ffec4e5ad3d8d01025957bf97cdb}\label{structumowa_aa288ffec4e5ad3d8d01025957bf97cdb}} 
+\index{umowa@{umowa}!datawystawienia@{datawystawienia}}
+\index{datawystawienia@{datawystawienia}!umowa@{umowa}}
+\doxysubsubsection{\texorpdfstring{datawystawienia}{datawystawienia}}
+{\footnotesize\ttfamily struct tm umowa\+::datawystawienia}
+
+
+
+Zawiera informacje o dacie, godzinie wystawienia umowy. 
+
+\mbox{\Hypertarget{structumowa_a01b383c60e3a1d418f4611adc4158e9f}\label{structumowa_a01b383c60e3a1d418f4611adc4158e9f}} 
+\index{umowa@{umowa}!datazakonczenia@{datazakonczenia}}
+\index{datazakonczenia@{datazakonczenia}!umowa@{umowa}}
+\doxysubsubsection{\texorpdfstring{datazakonczenia}{datazakonczenia}}
+{\footnotesize\ttfamily struct tm umowa\+::datazakonczenia}
+
+
+
+Zawiera informacje o dacie, godzinie zakonczenia lub dokonania uslugi/zakupu. 
+
+\mbox{\Hypertarget{structumowa_a9e0e84e1fb6e689623e5ce4aceed4938}\label{structumowa_a9e0e84e1fb6e689623e5ce4aceed4938}} 
+\index{umowa@{umowa}!dostawca@{dostawca}}
+\index{dostawca@{dostawca}!umowa@{umowa}}
+\doxysubsubsection{\texorpdfstring{dostawca}{dostawca}}
+{\footnotesize\ttfamily void$\ast$ umowa\+::dostawca}
+
+
+
+Dostawca. 
+
+\mbox{\Hypertarget{structumowa_a7a3174385363b9e717f4a23f0a52e976}\label{structumowa_a7a3174385363b9e717f4a23f0a52e976}} 
+\index{umowa@{umowa}!element@{element}}
+\index{element@{element}!umowa@{umowa}}
+\doxysubsubsection{\texorpdfstring{element}{element}}
+{\footnotesize\ttfamily char umowa\+::element\mbox{[}25\mbox{]}}
+
+
+
+Na co wystawiona umowa. 
+
+\mbox{\Hypertarget{structumowa_ac2b9af213ba282d08fcfddf0e778ba12}\label{structumowa_ac2b9af213ba282d08fcfddf0e778ba12}} 
+\index{umowa@{umowa}!kwotabrutto@{kwotabrutto}}
+\index{kwotabrutto@{kwotabrutto}!umowa@{umowa}}
+\doxysubsubsection{\texorpdfstring{kwotabrutto}{kwotabrutto}}
+{\footnotesize\ttfamily float umowa\+::kwotabrutto}
+
+
+
+Kwota z podatkiem. 
+
+\mbox{\Hypertarget{structumowa_afa3b2b15961bd25854473af5f6425c85}\label{structumowa_afa3b2b15961bd25854473af5f6425c85}} 
+\index{umowa@{umowa}!kwotanetto@{kwotanetto}}
+\index{kwotanetto@{kwotanetto}!umowa@{umowa}}
+\doxysubsubsection{\texorpdfstring{kwotanetto}{kwotanetto}}
+{\footnotesize\ttfamily float umowa\+::kwotanetto}
+
+
+
+Kwota bez podatku. 
+
+\mbox{\Hypertarget{structumowa_a75ffe992004542bbb5bcd6835dda3826}\label{structumowa_a75ffe992004542bbb5bcd6835dda3826}} 
+\index{umowa@{umowa}!nabywca@{nabywca}}
+\index{nabywca@{nabywca}!umowa@{umowa}}
+\doxysubsubsection{\texorpdfstring{nabywca}{nabywca}}
+{\footnotesize\ttfamily void$\ast$ umowa\+::nabywca}
+
+
+
+Nabywca. 
+
+\mbox{\Hypertarget{structumowa_a0d2666664cebbc15584ede341b778a19}\label{structumowa_a0d2666664cebbc15584ede341b778a19}} 
+\index{umowa@{umowa}!nastepny@{nastepny}}
+\index{nastepny@{nastepny}!umowa@{umowa}}
+\doxysubsubsection{\texorpdfstring{nastepny}{nastepny}}
+{\footnotesize\ttfamily struct \mbox{\hyperlink{structumowa}{umowa}}$\ast$ umowa\+::nastepny}
+
+
+
+Wskaznik na kolejny element typu umowa. 
+
+\mbox{\Hypertarget{structumowa_a90ecd1ae1361b0209c610db58c98a889}\label{structumowa_a90ecd1ae1361b0209c610db58c98a889}} 
+\index{umowa@{umowa}!numer@{numer}}
+\index{numer@{numer}!umowa@{umowa}}
+\doxysubsubsection{\texorpdfstring{numer}{numer}}
+{\footnotesize\ttfamily int umowa\+::numer}
+
+
+
+Numer indywidualny -\/ porzadkowy. 
+
+\mbox{\Hypertarget{structumowa_a98272cecf0d775d30b3e11422c0d74ea}\label{structumowa_a98272cecf0d775d30b3e11422c0d74ea}} 
+\index{umowa@{umowa}!poprzedni@{poprzedni}}
+\index{poprzedni@{poprzedni}!umowa@{umowa}}
+\doxysubsubsection{\texorpdfstring{poprzedni}{poprzedni}}
+{\footnotesize\ttfamily struct \mbox{\hyperlink{structumowa}{umowa}}$\ast$ umowa\+::poprzedni}
+
+
+
+Wskaznik na poprzedni element typu umowa. 
+
+\mbox{\Hypertarget{structumowa_aed7f5dc5038765b5656874af942d244a}\label{structumowa_aed7f5dc5038765b5656874af942d244a}} 
+\index{umowa@{umowa}!rodzaj@{rodzaj}}
+\index{rodzaj@{rodzaj}!umowa@{umowa}}
+\doxysubsubsection{\texorpdfstring{rodzaj}{rodzaj}}
+{\footnotesize\ttfamily int umowa\+::rodzaj}
+
+
+
+Umowa strony. 
+
+1.\+Osoba prywatna -\/ Osoba prywatna
+
+2.\+Osoba prywatna -\/ Firma
+
+3.\+Firma -\/ Osoba prywatna
+
+4.\+Firma -\/ Firma \mbox{\Hypertarget{structumowa_a569731979a460c728b0aa453f6bb4273}\label{structumowa_a569731979a460c728b0aa453f6bb4273}} 
+\index{umowa@{umowa}!stan@{stan}}
+\index{stan@{stan}!umowa@{umowa}}
+\doxysubsubsection{\texorpdfstring{stan}{stan}}
+{\footnotesize\ttfamily int umowa\+::stan}
+
+
+
+Zaplacone -\/1 / Niezaplacona -\/ 0. 
+
+\mbox{\Hypertarget{structumowa_aa23c867e79b6b24a789dbc62e294cbed}\label{structumowa_aa23c867e79b6b24a789dbc62e294cbed}} 
+\index{umowa@{umowa}!stawkapodatku@{stawkapodatku}}
+\index{stawkapodatku@{stawkapodatku}!umowa@{umowa}}
+\doxysubsubsection{\texorpdfstring{stawkapodatku}{stawkapodatku}}
+{\footnotesize\ttfamily float umowa\+::stawkapodatku}
+
+
+
+Stawka podatku. 
+
+\mbox{\Hypertarget{structumowa_a6ab0cc59f51b4058162cea864d23eeac}\label{structumowa_a6ab0cc59f51b4058162cea864d23eeac}} 
+\index{umowa@{umowa}!typ@{typ}}
+\index{typ@{typ}!umowa@{umowa}}
+\doxysubsubsection{\texorpdfstring{typ}{typ}}
+{\footnotesize\ttfamily int umowa\+::typ}
+
+
+
+Umowa sprzedazy lub uslugi. 
+
+
+
+The documentation for this struct was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/\+Sara/source/repos/\+P\+K2/\+Projekt/\mbox{\hyperlink{umowa_8h}{umowa.\+h}}\end{DoxyCompactItemize}

@@ -1,0 +1,113 @@
+\hypertarget{structmenu}{}\doxysection{menu Struct Reference}
+\label{structmenu}\index{menu@{menu}}
+
+
+Struktura, ktora zawiera wskazniki do wszystkich baz w programie.  
+
+
+
+
+{\ttfamily \#include $<$menu.\+h$>$}
+
+\doxysubsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+struct \mbox{\hyperlink{structumowa}{umowa}} $\ast$ \mbox{\hyperlink{structmenu_a495c412ab2796e6422d801933954b337}{glowa}}
+\begin{DoxyCompactList}\small\item\em Glowa listy zawierajacej umowy. \end{DoxyCompactList}\item 
+struct \mbox{\hyperlink{structumowa}{umowa}} $\ast$ \mbox{\hyperlink{structmenu_a13afa95a7f04632ca07c434d723e9d40}{ogon}}
+\begin{DoxyCompactList}\small\item\em Ogon listy zawierajacej umowy. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{structmenu_a9a59f9d427b83b789fa4ad8cfc1283ed}{licznik}}
+\begin{DoxyCompactList}\small\item\em Ilosc umow w bazie. \end{DoxyCompactList}\item 
+struct \mbox{\hyperlink{structosoba}{osoba}} $\ast$ \mbox{\hyperlink{structmenu_a45f9ebebc443a6438addf2bc243ef890}{oglowa}}
+\begin{DoxyCompactList}\small\item\em Glowa listy osob prywatnych. \end{DoxyCompactList}\item 
+struct \mbox{\hyperlink{structosoba}{osoba}} $\ast$ \mbox{\hyperlink{structmenu_a73f09f180266dca70898b50ce0e85bc1}{oogon}}
+\begin{DoxyCompactList}\small\item\em Ogon listy osob prywatnych. \end{DoxyCompactList}\item 
+struct \mbox{\hyperlink{structfirma}{firma}} $\ast$ \mbox{\hyperlink{structmenu_a7bc2caa0922067ef20f87aa3c2baa48e}{fglowa}}
+\begin{DoxyCompactList}\small\item\em Glowa listy firm. \end{DoxyCompactList}\item 
+struct \mbox{\hyperlink{structfirma}{firma}} $\ast$ \mbox{\hyperlink{structmenu_aa6c6d46f5f099d977355e082aa59c1a6}{fogon}}
+\begin{DoxyCompactList}\small\item\em Ogon listy firm. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Struktura, ktora zawiera wskazniki do wszystkich baz w programie. 
+
+Nie ma mozliwosci edycji bazy danych osob i firm jest ona jedynie w celu ulatwienia obslugi dodawania nowych umow w przypadku powtarzajacych sie osob/firm.
+
+W momencie usuniecia danej umowy nie jest usuwana dana osoba/firma z bazy danych. 
+
+\doxysubsection{Member Data Documentation}
+\mbox{\Hypertarget{structmenu_a7bc2caa0922067ef20f87aa3c2baa48e}\label{structmenu_a7bc2caa0922067ef20f87aa3c2baa48e}} 
+\index{menu@{menu}!fglowa@{fglowa}}
+\index{fglowa@{fglowa}!menu@{menu}}
+\doxysubsubsection{\texorpdfstring{fglowa}{fglowa}}
+{\footnotesize\ttfamily struct \mbox{\hyperlink{structfirma}{firma}}$\ast$ menu\+::fglowa}
+
+
+
+Glowa listy firm. 
+
+\mbox{\Hypertarget{structmenu_aa6c6d46f5f099d977355e082aa59c1a6}\label{structmenu_aa6c6d46f5f099d977355e082aa59c1a6}} 
+\index{menu@{menu}!fogon@{fogon}}
+\index{fogon@{fogon}!menu@{menu}}
+\doxysubsubsection{\texorpdfstring{fogon}{fogon}}
+{\footnotesize\ttfamily struct \mbox{\hyperlink{structfirma}{firma}}$\ast$ menu\+::fogon}
+
+
+
+Ogon listy firm. 
+
+\mbox{\Hypertarget{structmenu_a495c412ab2796e6422d801933954b337}\label{structmenu_a495c412ab2796e6422d801933954b337}} 
+\index{menu@{menu}!glowa@{glowa}}
+\index{glowa@{glowa}!menu@{menu}}
+\doxysubsubsection{\texorpdfstring{glowa}{glowa}}
+{\footnotesize\ttfamily struct \mbox{\hyperlink{structumowa}{umowa}}$\ast$ menu\+::glowa}
+
+
+
+Glowa listy zawierajacej umowy. 
+
+\mbox{\Hypertarget{structmenu_a9a59f9d427b83b789fa4ad8cfc1283ed}\label{structmenu_a9a59f9d427b83b789fa4ad8cfc1283ed}} 
+\index{menu@{menu}!licznik@{licznik}}
+\index{licznik@{licznik}!menu@{menu}}
+\doxysubsubsection{\texorpdfstring{licznik}{licznik}}
+{\footnotesize\ttfamily int menu\+::licznik}
+
+
+
+Ilosc umow w bazie. 
+
+\mbox{\Hypertarget{structmenu_a45f9ebebc443a6438addf2bc243ef890}\label{structmenu_a45f9ebebc443a6438addf2bc243ef890}} 
+\index{menu@{menu}!oglowa@{oglowa}}
+\index{oglowa@{oglowa}!menu@{menu}}
+\doxysubsubsection{\texorpdfstring{oglowa}{oglowa}}
+{\footnotesize\ttfamily struct \mbox{\hyperlink{structosoba}{osoba}}$\ast$ menu\+::oglowa}
+
+
+
+Glowa listy osob prywatnych. 
+
+\mbox{\Hypertarget{structmenu_a13afa95a7f04632ca07c434d723e9d40}\label{structmenu_a13afa95a7f04632ca07c434d723e9d40}} 
+\index{menu@{menu}!ogon@{ogon}}
+\index{ogon@{ogon}!menu@{menu}}
+\doxysubsubsection{\texorpdfstring{ogon}{ogon}}
+{\footnotesize\ttfamily struct \mbox{\hyperlink{structumowa}{umowa}}$\ast$ menu\+::ogon}
+
+
+
+Ogon listy zawierajacej umowy. 
+
+\mbox{\Hypertarget{structmenu_a73f09f180266dca70898b50ce0e85bc1}\label{structmenu_a73f09f180266dca70898b50ce0e85bc1}} 
+\index{menu@{menu}!oogon@{oogon}}
+\index{oogon@{oogon}!menu@{menu}}
+\doxysubsubsection{\texorpdfstring{oogon}{oogon}}
+{\footnotesize\ttfamily struct \mbox{\hyperlink{structosoba}{osoba}}$\ast$ menu\+::oogon}
+
+
+
+Ogon listy osob prywatnych. 
+
+
+
+The documentation for this struct was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/\+Sara/source/repos/\+P\+K2/\+Projekt/\mbox{\hyperlink{menu_8h}{menu.\+h}}\end{DoxyCompactItemize}

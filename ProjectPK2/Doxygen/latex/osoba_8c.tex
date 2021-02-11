@@ -1,0 +1,145 @@
+\hypertarget{osoba_8c}{}\doxysection{C\+:/\+Users/\+Sara/source/repos/\+P\+K2/\+Projekt/osoba.c File Reference}
+\label{osoba_8c}\index{C:/Users/Sara/source/repos/PK2/Projekt/osoba.c@{C:/Users/Sara/source/repos/PK2/Projekt/osoba.c}}
+{\ttfamily \#include \char`\"{}osoba.\+h\char`\"{}}\newline
+\doxysubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+struct \mbox{\hyperlink{structosoba}{osoba}} $\ast$ \mbox{\hyperlink{osoba_8c_aa4da4cce2acf28a62cf7ab488fc3df9f}{nowa\+\_\+osoba}} (struct \mbox{\hyperlink{structosoba}{osoba}} $\ast$$\ast$glowa, int $\ast$wybor, int $\ast$pnumer, int $\ast$check)
+\begin{DoxyCompactList}\small\item\em Tworzenie nowych elementow typu osoba. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{osoba_8c_a7d66c4c5f6827ebd067208a42059921c}{dodaj\+\_\+do\+\_\+listy\+\_\+osob}} (struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$pmenu, struct \mbox{\hyperlink{structosoba}{osoba}} $\ast$$\ast$nowa)
+\begin{DoxyCompactList}\small\item\em Dodanie do listy danej osoby. \end{DoxyCompactList}\item 
+struct \mbox{\hyperlink{structosoba}{osoba}} $\ast$$\ast$ \mbox{\hyperlink{osoba_8c_a3434d222e62ed8ee969b1da57835d2c6}{znajdz\+\_\+osobe}} (struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$pmenu, int pnumer)
+\begin{DoxyCompactList}\small\item\em Znajdz osobe po numerze podatkowym w liscie. \end{DoxyCompactList}\item 
+bool \mbox{\hyperlink{osoba_8c_adc8080521161c6bfd60a19b952d86321}{sprawdz\+\_\+numer\+\_\+osoby}} (struct \mbox{\hyperlink{structosoba}{osoba}} $\ast$$\ast$glowa, int pnumer)
+\begin{DoxyCompactList}\small\item\em Sprawdza czy dany numer podatkowy znajduje sie w bazie danych osob. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{osoba_8c_abe3a5b198059d82c8f5b6df638fee3c1}{dane\+\_\+osoby}} (void $\ast$$\ast$dane)
+\begin{DoxyCompactList}\small\item\em Wyswietl dane osobowe. \end{DoxyCompactList}\item 
+bool \mbox{\hyperlink{osoba_8c_a6c02b436197eebc854f0cf48b7076f75}{wszystkie\+\_\+osoby}} (struct \mbox{\hyperlink{structosoba}{osoba}} $\ast$glowa, int numer)
+\begin{DoxyCompactList}\small\item\em Wyswietl wszystkie osoby w bazie danych osob, z wyjatkiem nowo dodanej osoby. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Function Documentation}
+\mbox{\Hypertarget{osoba_8c_abe3a5b198059d82c8f5b6df638fee3c1}\label{osoba_8c_abe3a5b198059d82c8f5b6df638fee3c1}} 
+\index{osoba.c@{osoba.c}!dane\_osoby@{dane\_osoby}}
+\index{dane\_osoby@{dane\_osoby}!osoba.c@{osoba.c}}
+\doxysubsubsection{\texorpdfstring{dane\_osoby()}{dane\_osoby()}}
+{\footnotesize\ttfamily void dane\+\_\+osoby (\begin{DoxyParamCaption}\item[{void $\ast$$\ast$}]{dane }\end{DoxyParamCaption})}
+
+
+
+Wyswietl dane osobowe. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em glowa} & Referencja do glowy listy osob \\
+\hline
+{\em pnumer} & Numer podatkowy danej osoby \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nic nie zwraca 
+\end{DoxyReturn}
+\mbox{\Hypertarget{osoba_8c_a7d66c4c5f6827ebd067208a42059921c}\label{osoba_8c_a7d66c4c5f6827ebd067208a42059921c}} 
+\index{osoba.c@{osoba.c}!dodaj\_do\_listy\_osob@{dodaj\_do\_listy\_osob}}
+\index{dodaj\_do\_listy\_osob@{dodaj\_do\_listy\_osob}!osoba.c@{osoba.c}}
+\doxysubsubsection{\texorpdfstring{dodaj\_do\_listy\_osob()}{dodaj\_do\_listy\_osob()}}
+{\footnotesize\ttfamily void dodaj\+\_\+do\+\_\+listy\+\_\+osob (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$}]{pmenu,  }\item[{struct \mbox{\hyperlink{structosoba}{osoba}} $\ast$$\ast$}]{nowa }\end{DoxyParamCaption})}
+
+
+
+Dodanie do listy danej osoby. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em pmenu} & Referencja do menu, ktore zawiera glowy wszystkich list \\
+\hline
+{\em nowa} & Referencja do nowo utworzonej osoby \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nic nie zwraca 
+\end{DoxyReturn}
+\mbox{\Hypertarget{osoba_8c_aa4da4cce2acf28a62cf7ab488fc3df9f}\label{osoba_8c_aa4da4cce2acf28a62cf7ab488fc3df9f}} 
+\index{osoba.c@{osoba.c}!nowa\_osoba@{nowa\_osoba}}
+\index{nowa\_osoba@{nowa\_osoba}!osoba.c@{osoba.c}}
+\doxysubsubsection{\texorpdfstring{nowa\_osoba()}{nowa\_osoba()}}
+{\footnotesize\ttfamily struct \mbox{\hyperlink{structosoba}{osoba}}$\ast$ nowa\+\_\+osoba (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structosoba}{osoba}} $\ast$$\ast$}]{glowa,  }\item[{int $\ast$}]{wybor,  }\item[{int $\ast$}]{pnumer,  }\item[{int $\ast$}]{check }\end{DoxyParamCaption})}
+
+
+
+Tworzenie nowych elementow typu osoba. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em glowa} & Referencja do glowy listy osob \\
+\hline
+{\em wybor} & Okresla czy osoba ma byc z bazy, czy nowa \\
+\hline
+{\em pnumer} & Numer podatkowy w przypadku wyszukiwania z bazy \\
+\hline
+{\em check} & Zmienna pomocnicza w przypadku nie znalezenia danej osoby w bazie \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Zwraca nowy element typu osoba 
+\end{DoxyReturn}
+\mbox{\Hypertarget{osoba_8c_adc8080521161c6bfd60a19b952d86321}\label{osoba_8c_adc8080521161c6bfd60a19b952d86321}} 
+\index{osoba.c@{osoba.c}!sprawdz\_numer\_osoby@{sprawdz\_numer\_osoby}}
+\index{sprawdz\_numer\_osoby@{sprawdz\_numer\_osoby}!osoba.c@{osoba.c}}
+\doxysubsubsection{\texorpdfstring{sprawdz\_numer\_osoby()}{sprawdz\_numer\_osoby()}}
+{\footnotesize\ttfamily bool sprawdz\+\_\+numer\+\_\+osoby (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structosoba}{osoba}} $\ast$$\ast$}]{glowa,  }\item[{int}]{pnumer }\end{DoxyParamCaption})}
+
+
+
+Sprawdza czy dany numer podatkowy znajduje sie w bazie danych osob. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em glowa} & Referencja do glowy listy osob \\
+\hline
+{\em pnumer} & Szukany numer podatkowy \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Zwraca true lub false, w zaleznosci czy dzialanie sie powiedzie 
+\end{DoxyReturn}
+\mbox{\Hypertarget{osoba_8c_a6c02b436197eebc854f0cf48b7076f75}\label{osoba_8c_a6c02b436197eebc854f0cf48b7076f75}} 
+\index{osoba.c@{osoba.c}!wszystkie\_osoby@{wszystkie\_osoby}}
+\index{wszystkie\_osoby@{wszystkie\_osoby}!osoba.c@{osoba.c}}
+\doxysubsubsection{\texorpdfstring{wszystkie\_osoby()}{wszystkie\_osoby()}}
+{\footnotesize\ttfamily bool wszystkie\+\_\+osoby (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structosoba}{osoba}} $\ast$}]{glowa,  }\item[{int}]{pnumer }\end{DoxyParamCaption})}
+
+
+
+Wyswietl wszystkie osoby w bazie danych osob, z wyjatkiem nowo dodanej osoby. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em glowa} & Referencja do glowy listy osob \\
+\hline
+{\em pnumer} & Numer osoby, ktora wlasnie zostala dodana do bazy \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Zwraca true lub false, w zaleznosci czy dzialanie sie powiedzie 
+\end{DoxyReturn}
+\mbox{\Hypertarget{osoba_8c_a3434d222e62ed8ee969b1da57835d2c6}\label{osoba_8c_a3434d222e62ed8ee969b1da57835d2c6}} 
+\index{osoba.c@{osoba.c}!znajdz\_osobe@{znajdz\_osobe}}
+\index{znajdz\_osobe@{znajdz\_osobe}!osoba.c@{osoba.c}}
+\doxysubsubsection{\texorpdfstring{znajdz\_osobe()}{znajdz\_osobe()}}
+{\footnotesize\ttfamily struct \mbox{\hyperlink{structosoba}{osoba}}$\ast$$\ast$ znajdz\+\_\+osobe (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$}]{pmenu,  }\item[{int}]{pnumer }\end{DoxyParamCaption})}
+
+
+
+Znajdz osobe po numerze podatkowym w liscie. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em pmenu} & Referencja do menu, ktore zawiera glowy wszystkich list \\
+\hline
+{\em pnumer} & Numer podatkowy szukanej osoby \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Zwraca szukany element typu osoba 
+\end{DoxyReturn}

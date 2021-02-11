@@ -1,0 +1,205 @@
+\hypertarget{menu_8h}{}\doxysection{C\+:/\+Users/\+Sara/source/repos/\+P\+K2/\+Projekt/menu.h File Reference}
+\label{menu_8h}\index{C:/Users/Sara/source/repos/PK2/Projekt/menu.h@{C:/Users/Sara/source/repos/PK2/Projekt/menu.h}}
+{\ttfamily \#include $<$stdio.\+h$>$}\newline
+{\ttfamily \#include $<$string.\+h$>$}\newline
+{\ttfamily \#include $<$stdlib.\+h$>$}\newline
+{\ttfamily \#include $<$time.\+h$>$}\newline
+{\ttfamily \#include \char`\"{}sprawdzanie.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}wczytaj.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}osoba.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}firma.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}umowa.\+h\char`\"{}}\newline
+\doxysubsection*{Classes}
+\begin{DoxyCompactItemize}
+\item 
+struct \mbox{\hyperlink{structmenu}{menu}}
+\begin{DoxyCompactList}\small\item\em Struktura, ktora zawiera wskazniki do wszystkich baz w programie. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+struct \mbox{\hyperlink{structmenu}{menu}} $\ast$ \mbox{\hyperlink{menu_8h_af4d52145366c20f5becca16b17d2a257}{ustaw\+\_\+menu}} ()
+\begin{DoxyCompactList}\small\item\em Ustawienie wszystkich wskaznikow i zmiennych. \end{DoxyCompactList}\item 
+bool \mbox{\hyperlink{menu_8h_af3a0264a9cfc3aafe2b64b6655b189f6}{pomoc}} (struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$pmenu)
+\begin{DoxyCompactList}\small\item\em Funkcja odpowiedzialna za menu programu. \end{DoxyCompactList}\item 
+struct \mbox{\hyperlink{structumowa}{umowa}} $\ast$$\ast$ \mbox{\hyperlink{menu_8h_a18c57cc8adac81a1a9f0e3118ae26394}{znajdz\+\_\+umowe}} (struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$pmenu, int wybor)
+\begin{DoxyCompactList}\small\item\em Znajdz umowe po numerze porzadkowym w liscie. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{menu_8h_a8c678cb1f52f02034a98f8c729d4e1fb}{usun\+\_\+umowe}} (struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$pmenu)
+\begin{DoxyCompactList}\small\item\em Usuwa dana umowe z listy. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{menu_8h_a3f3e463efd4e0e55e751f17af204c5cc}{zaplac\+\_\+umowe}} (struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$pmenu)
+\begin{DoxyCompactList}\small\item\em Ustawia stan umowy na zaplacona. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{menu_8h_acbf36295c7717dd8e717cf1f1d3a8a44}{pokaz\+\_\+umowe}} (struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$pmenu)
+\begin{DoxyCompactList}\small\item\em Pokazuje wszystkie umowy w bazie. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{menu_8h_aafd85d04947b8d7b51f179bee1a70062}{przedawnione\+\_\+umowy}} (struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$pmenu, int $\ast$wybor)
+\begin{DoxyCompactList}\small\item\em Pokazuje wszystkie umowy po aktualnej dacie -\/ historia umow. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{menu_8h_a38add172ba94dd52f37b1aa0bacc39cb}{niezaplacone\+\_\+umowy}} (struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$pmenu)
+\begin{DoxyCompactList}\small\item\em Pokazuje wszystkie niezaplacone umowy po aktualnej dacie. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{menu_8h_a8019d516488f773c534667fdf69538e3}{zwolnij\+\_\+pamiec}} (struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$pmenu)
+\begin{DoxyCompactList}\small\item\em Zwalnia pamiec w programie. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Function Documentation}
+\mbox{\Hypertarget{menu_8h_a38add172ba94dd52f37b1aa0bacc39cb}\label{menu_8h_a38add172ba94dd52f37b1aa0bacc39cb}} 
+\index{menu.h@{menu.h}!niezaplacone\_umowy@{niezaplacone\_umowy}}
+\index{niezaplacone\_umowy@{niezaplacone\_umowy}!menu.h@{menu.h}}
+\doxysubsubsection{\texorpdfstring{niezaplacone\_umowy()}{niezaplacone\_umowy()}}
+{\footnotesize\ttfamily void niezaplacone\+\_\+umowy (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$}]{pmenu }\end{DoxyParamCaption})}
+
+
+
+Pokazuje wszystkie niezaplacone umowy po aktualnej dacie. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em pmenu} & Referencja do menu, ktore zawiera glowy wszystkich list \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nic nie zwraca 
+\end{DoxyReturn}
+\mbox{\Hypertarget{menu_8h_acbf36295c7717dd8e717cf1f1d3a8a44}\label{menu_8h_acbf36295c7717dd8e717cf1f1d3a8a44}} 
+\index{menu.h@{menu.h}!pokaz\_umowe@{pokaz\_umowe}}
+\index{pokaz\_umowe@{pokaz\_umowe}!menu.h@{menu.h}}
+\doxysubsubsection{\texorpdfstring{pokaz\_umowe()}{pokaz\_umowe()}}
+{\footnotesize\ttfamily void pokaz\+\_\+umowe (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$}]{pmenu }\end{DoxyParamCaption})}
+
+
+
+Pokazuje wszystkie umowy w bazie. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em pmenu} & Referencja do menu, ktore zawiera glowy wszystkich list \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nic nie zwraca 
+\end{DoxyReturn}
+\mbox{\Hypertarget{menu_8h_af3a0264a9cfc3aafe2b64b6655b189f6}\label{menu_8h_af3a0264a9cfc3aafe2b64b6655b189f6}} 
+\index{menu.h@{menu.h}!pomoc@{pomoc}}
+\index{pomoc@{pomoc}!menu.h@{menu.h}}
+\doxysubsubsection{\texorpdfstring{pomoc()}{pomoc()}}
+{\footnotesize\ttfamily bool pomoc (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$}]{pmenu }\end{DoxyParamCaption})}
+
+
+
+Funkcja odpowiedzialna za menu programu. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em data} & Referencja do menu, ktore zawiera glowy wszystkich list \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Zwraca false, w przypadku checi zakonczenia programu, w innym przypadku true 
+\end{DoxyReturn}
+\mbox{\Hypertarget{menu_8h_aafd85d04947b8d7b51f179bee1a70062}\label{menu_8h_aafd85d04947b8d7b51f179bee1a70062}} 
+\index{menu.h@{menu.h}!przedawnione\_umowy@{przedawnione\_umowy}}
+\index{przedawnione\_umowy@{przedawnione\_umowy}!menu.h@{menu.h}}
+\doxysubsubsection{\texorpdfstring{przedawnione\_umowy()}{przedawnione\_umowy()}}
+{\footnotesize\ttfamily void przedawnione\+\_\+umowy (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$}]{pmenu,  }\item[{int $\ast$}]{wybor }\end{DoxyParamCaption})}
+
+
+
+Pokazuje wszystkie umowy po aktualnej dacie -\/ historia umow. 
+
+Wyswietlanie zakonczonych umow, czyli te ktore zawczasu zostaly juz zaplacone, lub sa juz po dacie i zaplacone.
+
+Pozwala rozniez wyswietlic te umowy, ktore sa aktualne i do zaplaty
+
+
+\begin{DoxyParams}{Parameters}
+{\em pmenu} & Referencja do menu, ktore zawiera glowy wszystkich list \\
+\hline
+{\em wybor} & Zmienna, ktora wybiera rodzaj wyswietlania \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nic nie zwraca 
+\end{DoxyReturn}
+\mbox{\Hypertarget{menu_8h_af4d52145366c20f5becca16b17d2a257}\label{menu_8h_af4d52145366c20f5becca16b17d2a257}} 
+\index{menu.h@{menu.h}!ustaw\_menu@{ustaw\_menu}}
+\index{ustaw\_menu@{ustaw\_menu}!menu.h@{menu.h}}
+\doxysubsubsection{\texorpdfstring{ustaw\_menu()}{ustaw\_menu()}}
+{\footnotesize\ttfamily struct \mbox{\hyperlink{structmenu}{menu}}$\ast$ ustaw\+\_\+menu (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Ustawienie wszystkich wskaznikow i zmiennych. 
+
+\begin{DoxyReturn}{Returns}
+Zwraca nowo utworzona strukture typu menu 
+\end{DoxyReturn}
+\mbox{\Hypertarget{menu_8h_a8c678cb1f52f02034a98f8c729d4e1fb}\label{menu_8h_a8c678cb1f52f02034a98f8c729d4e1fb}} 
+\index{menu.h@{menu.h}!usun\_umowe@{usun\_umowe}}
+\index{usun\_umowe@{usun\_umowe}!menu.h@{menu.h}}
+\doxysubsubsection{\texorpdfstring{usun\_umowe()}{usun\_umowe()}}
+{\footnotesize\ttfamily void usun\+\_\+umowe (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$}]{pmenu }\end{DoxyParamCaption})}
+
+
+
+Usuwa dana umowe z listy. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em pmenu} & Referencja do menu, ktore zawiera glowy wszystkich list \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nic nie zwraca 
+\end{DoxyReturn}
+\mbox{\Hypertarget{menu_8h_a3f3e463efd4e0e55e751f17af204c5cc}\label{menu_8h_a3f3e463efd4e0e55e751f17af204c5cc}} 
+\index{menu.h@{menu.h}!zaplac\_umowe@{zaplac\_umowe}}
+\index{zaplac\_umowe@{zaplac\_umowe}!menu.h@{menu.h}}
+\doxysubsubsection{\texorpdfstring{zaplac\_umowe()}{zaplac\_umowe()}}
+{\footnotesize\ttfamily void zaplac\+\_\+umowe (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$}]{pmenu }\end{DoxyParamCaption})}
+
+
+
+Ustawia stan umowy na zaplacona. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em pmenu} & Referencja do menu, ktore zawiera glowy wszystkich list \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nic nie zwraca 
+\end{DoxyReturn}
+\mbox{\Hypertarget{menu_8h_a18c57cc8adac81a1a9f0e3118ae26394}\label{menu_8h_a18c57cc8adac81a1a9f0e3118ae26394}} 
+\index{menu.h@{menu.h}!znajdz\_umowe@{znajdz\_umowe}}
+\index{znajdz\_umowe@{znajdz\_umowe}!menu.h@{menu.h}}
+\doxysubsubsection{\texorpdfstring{znajdz\_umowe()}{znajdz\_umowe()}}
+{\footnotesize\ttfamily struct \mbox{\hyperlink{structumowa}{umowa}}$\ast$$\ast$ znajdz\+\_\+umowe (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$}]{pmenu,  }\item[{int}]{wybor }\end{DoxyParamCaption})}
+
+
+
+Znajdz umowe po numerze porzadkowym w liscie. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em pmenu} & Referencja do menu, ktore zawiera glowy wszystkich list \\
+\hline
+{\em wybor} & W przypadku gdy wartosc rowna 1, wyswietla informacje na temat danej umowy \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Zwraca szukany element typu umowa 
+\end{DoxyReturn}
+\mbox{\Hypertarget{menu_8h_a8019d516488f773c534667fdf69538e3}\label{menu_8h_a8019d516488f773c534667fdf69538e3}} 
+\index{menu.h@{menu.h}!zwolnij\_pamiec@{zwolnij\_pamiec}}
+\index{zwolnij\_pamiec@{zwolnij\_pamiec}!menu.h@{menu.h}}
+\doxysubsubsection{\texorpdfstring{zwolnij\_pamiec()}{zwolnij\_pamiec()}}
+{\footnotesize\ttfamily void zwolnij\+\_\+pamiec (\begin{DoxyParamCaption}\item[{struct \mbox{\hyperlink{structmenu}{menu}} $\ast$$\ast$}]{pmenu }\end{DoxyParamCaption})}
+
+
+
+Zwalnia pamiec w programie. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em pmenu} & Referencja do menu, ktore zawiera glowy wszystkich list \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Nic nie zwraca 
+\end{DoxyReturn}
